@@ -1,4 +1,5 @@
 
+<<<<<<< Upstream, based on origin/dev
 
 Story-1 is completed
 
@@ -14,4 +15,9 @@ new Story-2 is completed
 
 
 very new Story-1 is completed
+
+very new Story-1 is completed
+
+Story-2 is completed
+
 
