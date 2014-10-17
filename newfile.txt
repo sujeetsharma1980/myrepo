@@ -9,3 +9,5 @@ Story-4 is completed
 
 new Story-1 is completed
 
+new Story-2 is completed
+
