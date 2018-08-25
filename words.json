@@ -2,10 +2,16 @@
     {
         "word": "Aback", 
         "meaning":"(bak) - shocked, surprised",
-        "description":"Everybody was taken aback when the Babri Masjid was demolished."},
+        "description":"Everybody was taken aback when the Babri Masjid was demolished."
+    },
     {
         "word": "Abandon",
         "meaning": "(abandn) - to leave permanently",
         "description": "The young child was abandoned by the parents."
+    },
+    {
+        "word": "Abdicate ",
+        "meaning": "(abdikat) - to give up, renounce",
+        "description": "The government was accused by the opposition of abdicating its moral responsibility of protecting the minorities."
     }
 ]
