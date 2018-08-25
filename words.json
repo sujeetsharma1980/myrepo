@@ -1,12 +1,12 @@
 [
     {
-        "code": "1xx",
-        "phrase": "**Informational**",
+        "word": "1xx",
+        "meaning": "**Informational**",
         "description": "\"indicates an interim response for communicating connection status or request progress prior to completing the requested action and sending a final response.\" ~ [sure](http://www.urbandictionary.com/define.php?term=sure)"
     },
     {
-        "code": "100",
-        "phrase": "Continue",
+        "word": "100",
+        "meaning": "Continue",
         "description": "\"indicates that the initial part of a request has been received and has not yet been rejected by the server.\""
     }
 ]
