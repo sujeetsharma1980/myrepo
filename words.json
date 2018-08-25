@@ -1,9 +1,8 @@
 [
     {
-        "word": "1xx",
-        "meaning": "**Informational**",
-        "description": "\"indicates an interim response for communicating connection status or request progress prior to completing the requested action and sending a final response.\" ~ [sure](http://www.urbandictionary.com/define.php?term=sure)"
-    },
+        "word": "Aback", 
+        "meaning":"(bak) - shocked, surprised",
+        "description":"Everybody was taken aback when the Babri Masjid was demolished."},
     {
         "word": "100",
         "meaning": "Continue",
