@@ -1,17 +1,1864 @@
-[
-    {
-        "word": "Aback", 
-        "meaning":"(bak) - shocked, surprised",
-        "description":"Everybody was taken aback when the Babri Masjid was demolished."
-    },
-    {
-        "word": "Abandon",
-        "meaning": "(abandn) - to leave permanently",
-        "description": "The young child was abandoned by the parents."
-    },
-    {
-        "word": "Abdicate ",
-        "meaning": "(abdikat) - to give up, renounce",
-        "description": "The government was accused by the opposition of abdicating its moral responsibility of protecting the minorities."
-    }
-]
+{
+    "wordmeanings": [
+        {
+            "word": "quadragenarian",
+            "meaning": "चालीस वर्षीय, चालीस साला",
+            "sentence": "She will be a quadragenarian in  August."
+        },
+        {
+            "word": "racket",
+            "meaning": "धोखाधड़ी, कूट योजना, ठग व्यापार, गोरखधंधा, तिकड़म, हल्ला-गुल्ला, हुल्लड़, गुलगपाड़ा, कोलाहल, शोरगुल, आमोद प्रमोद, रंगरलियां, हंगामा, धमा-चौकड़ी, रैकट (टैनिस)",
+            "sentence": "The leader of a gang which ran a multi-million pound drugs racket is jailed for 14 years by the court."
+        },
+        {
+            "word": "Sabbath",
+            "meaning": "विश्राम दिवस, विश्रांति दिवस, छुट्टी, रविवार, शनिवार, सैबथ",
+            "sentence": "The Sabbath is a day for rest, and for Bible study and worship - both in church and in private meditation and prayer."
+        },
+        {
+            "word": "vacuity",
+            "meaning": "रिक्तता, शून्यता, बुद्धिहीनता, मूर्खता, निस्सारता",
+            "sentence": "With his meaningless talk, he reveals only the immense vacuity of his mind."
+        },
+        {
+            "word": "wail",
+            "meaning": "आंसू बहाना, बिलखना, विलाप करना, रोना, चिल्लाना, शोक करना, क्रंदन करना, ",
+            "sentence": "He puts his hands over his ears and continues to wail."
+        },
+        {
+            "word": "xenomania",
+            "meaning": "विदेश प्रेम, विदेशी मोह, विदेशी संस्कृति मोह, प्रत्येक विदेशी वस्तु के लिए आसक्त होना",
+            "sentence": "He was so fond of foreign customs, fashion, manners and things that people classified him as xenomania person."
+        },
+        {
+            "word": "yardstick ",
+            "meaning": "मानदण्ड, गज",
+            "sentence": "Some groups say the national anthem cannot be a yardstick for measuring patriotism. "
+        },
+        {
+            "word": "zeal",
+            "meaning": "उत्साह, जोश, उमंग, सरगर्मी, औत्सुक्य ",
+            "sentence": "The war extinguished some of the zeal of the Islamic revolution in Iran and led some Iranians to question the capabilities of their leaders."
+        },
+        {
+            "word": "monomania",
+            "meaning": "एकोन्माद, एक ही बात की धुन",
+            "sentence": "Ford's success with the Model T was a testament to the power of monomania. His devotion to the car was total. In 1912, a few years after the advent of the Model T, company managers surprised Ford with a prototype of a sleeker car. He literally demolished it with his own hands.-- \"The People's Tycoon:Driven\", New York Times, September 4th, 2005"
+        },
+        {
+            "word": "ruminate",
+            "meaning": "चिंतन करना ",
+            "sentence": "After he had been condemned to death on the trumped up charges of corrupting the youth of Athens and failing to revere the local gods, Socrates began to ruminate on the afterlife before an audience of his judges. -- \"How to Make It in the Afterlife\", New York Times, June 23, 2009"
+        },
+        {
+            "word": "collude",
+            "meaning": "सांठ-गांठ करना",
+            "sentence": "In the last two years, more than 15 of the market's traders have been kidnapped. One businessman says that corrupt government officials and the Afghan security services often collude in these crimes. -- \"Afghanistan's kidnapping industry\", New York Times, September 16, 2008"
+        },
+        {
+            "word": "elucidate",
+            "meaning": "स्पष्ट करना",
+            "sentence": "This research, she adds, \"is trying to elucidate whether vitamin D deficiency is associated with depression and may be contributing to this increase in cardiovascular disease and events.\" -- \"Heart patients lacking vitamin D more likely to be depressed\", CNN, November 16, 2009"
+        },
+        {
+            "word": "parsimony",
+            "meaning": "मितव्ययिता ",
+            "sentence": "Voters reacted so negatively because the government's parsimony coincided with a wave of job cuts that have helped raise the unemployment rate to 9.6 percent. - New York Times, October 9, 2005"
+        },
+        {
+            "word": "obfuscate",
+            "meaning": "उलझाना",
+            "sentence": "Local councils have been warned over a slew of jargon that baffles ordinary people, but why do they love to obfuscate? --  BBC News, February 8, 2008"
+        },
+        {
+            "word": "fiat",
+            "meaning": "हुक्म",
+            "sentence": "India cannot grow the same way as China, though, even if it does pursue low-cost manufacturing just as avidly. India is a functioning democracy, where local governments do battle with New Delhi and small constituencies make their voices heard. The central government cannot rule by fiat, and officials are loath to follow a path that has not been tested as a precedent. -- New York Times, June 3, 2008"
+        },
+        {
+            "word": "nefarious",
+            "meaning": "जघन्य",
+            "sentence": "The defence ministry has accused the rebels of abducting 16 children from a Roman Catholic orphanage in the town on Friday. It described the abduction as a \"nefarious act of terrorism\" and an \"ideal example of the inhumanity of the terrorist outfit\". -- BBC News, December 29, 2008"
+        },
+        {
+            "word": "potable",
+            "meaning": "पीने योग्य",
+            "sentence": "Most Nepalese and Bhutanese literally live in the dark, without electricity or potable water. -- New York Times, May 11, 2005"
+        },
+        {
+            "word": "perforce",
+            "meaning": "मजबूरन ",
+            "sentence": "Musicians, and most especially Thelonious Monk tend not, as writers do, to write hundreds of letters sharing with intimates what is going on in their hearts or heads. A biography of Monk, perforce, has to rely on the not always reliable, often conflicting, memories of others. -- New York Times, October 15, 2009"
+        },
+        {
+            "word": "reticent",
+            "meaning": "झिझक के साथ",
+            "sentence": "Sensitive to the victimization of blacks throughout American history, whites tend to be reticent about criticizing them, especially on racial matters. -- Time Magazine, May 7, 1984"
+        },
+        {
+            "word": "abscond",
+            "meaning": "फ़रार होना",
+            "sentence": "Scotland Yard are hunting three men who are believed to have absconded from control orders imposed under the Prevention of Terrorism Act. -- BBC News, 23 May, 2007"
+        },
+        {
+            "word": "clemency",
+            "meaning": "दया",
+            "sentence": "The Dalai Lama has called on the Chinese authorities to show clemency towards a Tibetan monk whose suspended death sentence ran out on Thursday. -- BBC News, 2 December 2004"
+        },
+        {
+            "word": "indolent",
+            "meaning": "आलसी ",
+            "sentence": "If you allow people to believe that no matter how indolent they are they will always be paid then naturally they will take the dole and not bother to work."
+        },
+        {
+            "word": "adamant",
+            "meaning": "अटल",
+            "sentence": "The talks did not make much headway as autorickshaw drivers were adamant on fixation of Rs. 10 as minimum fare for the first two km and Rs. 5 per km extra. -- The Hindu, 29 September 2003"
+        },
+        {
+            "word": "ablution",
+            "meaning": "नहाना-धोना",
+            "sentence": "Our accommodations there were primitive, wooden huts, wood burning stoves, lamps and army cots with gray blankets. A dining hut and an ablution shed with outdoor toilets. -- BBC, 3 August 2005"
+        },
+        {
+            "word": "proponent",
+            "meaning": "समर्थक ",
+            "sentence": "A Sunni Arab leader of a citizen patrol group in Baghdad who had been a proponent of reconciliation in his neighborhood was assassinated over the weekend. -- New York Times, 15 September 2008"
+        },
+        {
+            "word": "supplant",
+            "meaning": "हटाना",
+            "sentence": "Corporates with a high rating often raise funds much cheaper than what is possible for a bank. The capital market and external commercial borrowings have become attractive avenues though even in the best of times can hardly supplant the banking system. -- The Hindu, 14 November 2005"
+        },
+        {
+            "word": "profuse",
+            "meaning": "प्रचुर",
+            "sentence": "Mining and quarrying have been age-old practices in India, as evidenced by the profuse use of a variety of stones in the thousands of ancient temples and monuments scattered all over the country. -- The Hindu, 29 October, 2003"
+        },
+        {
+            "word": "confluence",
+            "meaning": "संगम",
+            "sentence": "The Kumbh Mela is held at the confluence of the Ganges and Yamuna rivers, where Hindu scriptures say the gods spilt a drop of the elixir of immortality. -- BBC, 26 January 2001"
+        },
+        {
+            "word": "abattoir",
+            "meaning": "बूचड़खाना, कसाईखाना, वधशाला",
+            "sentence": "The Delhi Government, on the order from the Supreme Court, decided to shift the abattoir to a faraway place."
+        },
+        {
+            "word": "backfire",
+            "meaning": "व्यर्थ या निष्फल हो जाना, विपरीत प्रभाव, प्रतिज्वलन, प्रतिविस्फोटन",
+            "sentence": "The next time you force your kids to clean their plate and eat the meal, just give a second thought, for a new study claimed that it may backfire even though you say it for good."
+        },
+        {
+            "word": "dalliance",
+            "meaning": "हास-परिहास, आमोद प्रमोद, मौज मस्ती, क्रीड़ा, खेलकूद",
+            "sentence": "I wasted all of my school time with this foolish dalliance."
+        },
+        {
+            "word": "ebriety",
+            "meaning": "नशा, उन्मत्तता, मतवालापन",
+            "sentence": "Police say he was in an advanced state of ebriety."
+        },
+        {
+            "word": "factotum ",
+            "meaning": "हरफ़नमौला सेवक या नौकर, सर्व कर्मकार, सब तरह का काम करने वाला नौकर, विश्वस्त सेवक",
+            "sentence": "My boss had just hired a factotum to do variety of jobs."
+        },
+        {
+            "word": "janitor",
+            "meaning": "दरबान, द्वारपाल, चौकीदार",
+            "sentence": "He was obliged to bribe the janitor, too, because the laws of the house permitted neither animals nor babies within its precincts."
+        },
+        {
+            "word": "oblivion",
+            "meaning": "विस्मृति, क्षमा, भूल, विस्मरण, भूल जाना ",
+            "sentence": "Upon recent trips to Belgium, I was sad to discover that \"our\" dialect is swiftly fading into oblivion."
+        },
+        {
+            "word": "quagmire ",
+            "meaning": "दलदल, पंक, कीचड़, फंसाव",
+            "sentence": "Newly elected leader Hamid Karzai aims to bring Afghanistan \"out of the quagmire\"."
+        },
+        {
+            "word": "sacrilege",
+            "meaning": "अपवित्रीकरण, पवित्र वस्तुओं की चोरी या अनादर, पुण्य वस्तु दूषण",
+            "sentence": "Cows are sacred to Hindus so the killing of a cow at a temple is seen as religious sacrilege of the worst kind."
+        },
+        {
+            "word": "xerasia",
+            "meaning": "केश शुष्कता, बाल शुष्कता",
+            "sentence": "In spite of getting best ever treatment from a known dermatologist, both of them are suffering from xerasia time and again."
+        },
+        {
+            "word": "taciturn",
+            "meaning": "अल्प भाषी, चुप्प, चुप, चुप्पी साधना, तूष्णांक",
+            "sentence": "Barbara Bush, wife of President George Bush senior, was publicly taciturn over any differences in opinion with her husband."
+        },
+        {
+            "word": "packman",
+            "meaning": "फेरीवाला, बिसाती",
+            "sentence": "He was a packman who froze to death in the hills in the 1700s and his death has never been explained."
+        },
+        {
+            "word": "machete",
+            "meaning": "छुरा, चाकू, बड़ा चाकू, हथियार",
+            "sentence": "Police is hunting a gang member who stabbed a man in the head with a machete during an attack in south Manchester."
+        },
+        {
+            "word": "concocted",
+            "meaning": "कपट-जाल, कुचक्र, दुरभिसन्धि, कूटरचना",
+            "sentence": "The false evidences in the case were deliberately concocted by the media, to make me the main defendant."
+        },
+        {
+            "word": "resolute",
+            "meaning": "कृतसंकल्प, दृढ़, अटल, दृढ़प्रतिज्ञ, धीर",
+            "sentence": "She is resolute in the pursuits of her goals and is hungry for other opportunities that will take her career to new heights."
+        },
+        {
+            "word": "pyrophobia",
+            "meaning": "आग का भय/डर, अग्निभीति",
+            "sentence": "There are many kinds of phobias and one such phobia is pyrophobia or fear of fire, which is difficult to diagnose and treat."
+        },
+        {
+            "word": "prevision",
+            "meaning": "दूरदर्शिता, पूर्वज्ञान, पूर्वदृष्टि",
+            "sentence": "The intelligent people not only show previsions and predictions, but they try to have these predictions succeed by their own intervention in the process."
+        },
+        {
+            "word": "licentious ",
+            "meaning": "स्वेच्छाचारी, लम्पट, व्यभिचारी, अति-स्वतंत्र, कामी",
+            "sentence": "A society which accepts licentious behaviour, that society can not be termed as social and acceptable society."
+        },
+        {
+            "word": "procrastinate",
+            "meaning": "टालना, देर करना, विलम्ब करना, विलम्बन",
+            "sentence": "Winners don't make excuses and they never procrastinate."
+        },
+        {
+            "word": "disregard",
+            "meaning": "अवहेलना,उपेक्षा करना,   पर्वाह न करना, उदासीनता",
+            "sentence": "If a person disregards this ruling, the Chair shall have the power to instruct him/her to leave the meeting."
+        },
+        {
+            "word": "slight",
+            "meaning": "कम, हल्का, क्षीण, निर्बल, तुच्छ, पतला ",
+            "sentence": "There may be slight variations in finish due to the individual nature of each leather piece used."
+        },
+        {
+            "word": "disdain",
+            "meaning": "घृणा, तिरस्कार, अवहेलना ",
+            "sentence": "Although Prohibition did greatly reduce overall alcohol consumption, the result was widespread disdain for the law."
+        },
+        {
+            "word": "segregate",
+            "meaning": "पृथक करना, अलग करना, छंटाई करना",
+            "sentence": "As the mega event is approaching, would your company be prepared to segregate waste for recycling?"
+        },
+        {
+            "word": "observatory",
+            "meaning": "वेधशाला",
+            "sentence": "Scientists in France and Italy are establishing a three-kilometer long observatory near Pisa, Italy."
+        },
+        {
+            "word": "belittle ",
+            "meaning": "अनादर करना, महत्व कम करना, छोटा करना, अपमान करना, अवज्ञा करना",
+            "sentence": "Air force censors not only hide the facts but also belittle those who publicly report UFO sightings."
+        },
+        {
+            "word": "stampede ",
+            "meaning": "भगदड़, धक्का-मुक्की, भागम-भाग, खलबली, डर/घबरा कर भागना, अफरा-तफरी",
+            "sentence": "Last week, several hundred Shia pilgrims in Baghdad were killed in a stampede sparked by rumors of a suicide bomber in their midst."
+        },
+        {
+            "word": "tropical",
+            "meaning": "उष्णकटिबन्धीय, आवेशपूर्ण, तीव्र, उत्कट, लाक्षणिक, उष्णदेशीय",
+            "sentence": "The country's climate is predominantly tropical, which is completely suitable for crops requiring less water."
+        },
+        {
+            "word": "clemency ",
+            "meaning": "राज्यक्षमा, दयाशीलता, मृदुलता, दयालुता, तरस, नम्रता",
+            "sentence": "In April, 1948, President Truman granted executive clemency to both of them on condition of deportation."
+        },
+        {
+            "word": "behemoth ",
+            "meaning": "विशालकाय, विशाल पशु",
+            "sentence": "It is virtual suicide to attempt to compete with the behemoth search engines like Google."
+        },
+        {
+            "word": "obscurity",
+            "meaning": "गुमनामी, धुंधलापन, अंधकार, अस्पष्टता, अप्रसिद्धि, विस्मृति, गहनता, दुर्बोधता",
+            "sentence": "After winning the noble prize, he lived in obscurity for four decades."
+        },
+        {
+            "word": "allegiance ",
+            "meaning": "निष्ठा, राजभक्ति, स्वामीभक्ति, राज्यनिष्ठा, राज्यास्था, आज्ञापालन, वफादारी, राजनिष्ठा",
+            "sentence": "The decline in the number of people professing allegiance to religion is a matter of great concern."
+        },
+        {
+            "word": "allegiance ",
+            "meaning": "निष्ठा, राजभक्ति, स्वामीभक्ति, राज्यनिष्ठा, राज्यास्था, आज्ञापालन, वफादारी, राजनिष्ठा",
+            "sentence": "The decline in the number of people professing allegiance to religion is a matter of great concern."
+        },
+        {
+            "word": "allegiance ",
+            "meaning": "निष्ठा, राजभक्ति, स्वामीभक्ति, राज्यनिष्ठा, राज्यास्था, आज्ञापालन, वफादारी, राजनिष्ठा",
+            "sentence": "The decline in the number of people professing allegiance to religion is a matter of great concern."
+        },
+        {
+            "word": "allegiance ",
+            "meaning": "निष्ठा, राजभक्ति, स्वामीभक्ति, राज्यनिष्ठा, राज्यास्था, आज्ञापालन, वफादारी, राजनिष्ठा",
+            "sentence": "The decline in the number of people professing allegiance to religion is a matter of great concern."
+        },
+        {
+            "word": "truce",
+            "meaning": "युद्धविराम, विराम सन्धि, अस्थायी शांति, अवहार ",
+            "sentence": "The island has remained partitioned ever since, and UN peacekeeping forces maintain a truce between the two sides."
+        },
+        {
+            "word": "amuck ",
+            "meaning": "विक्षिप्त, उन्मत्त, हिंसक, हिंसोन्मत्त होना, अंधाधुंध, हिंसोन्माद, आवेश",
+            "sentence": "When the nightclub caught fire, persons present there ran amuck, blocking the exits."
+        },
+        {
+            "word": "insincere",
+            "meaning": "कुटिल, कपटपूर्ण, पाखण्ड, झूठ, कपटी, निष्ठारहित, धूर्त",
+            "sentence": "Such smiles that involve only the mouth and not the eyes often appear insincere to others."
+        },
+        {
+            "word": "enormous",
+            "meaning": "विशाल, महान, बहुत अधिक, विपुल, प्रचुर, भारी मात्रा, अत्यंत",
+            "sentence": "While the market size is enormous in terms of patient numbers, the investment by pharmaceuticals company in this field is negligible."
+        },
+        {
+            "word": "exacerbate",
+            "meaning": "बढ़ाना, तीव्र करना, कटु बनाना, चिढ़ाना, उत्तेजित करना",
+            "sentence": "If management forces its view, it will only exacerbate the conflict with the labour union."
+        },
+        {
+            "word": "mortality",
+            "meaning": "मृत्यु दर, मृत्यु, नश्वरता, मर्त्यता, घातकता",
+            "sentence": "Spending money on sanitation, hospitals and maternity services has resulted in declining rates of infant mortality."
+        },
+        {
+            "word": "unfairly",
+            "meaning": "अनुचित, अन्यायपूर्ण,",
+            "sentence": "The BBC must not unfairly promote any commercial organizations."
+        },
+        {
+            "word": "escalation",
+            "meaning": "वृद्धि, तेजी, प्रसार, प्रचार, विशालीकरण, बढ़त, वर्धन",
+            "sentence": "The commanders of both the warring groups enter into an agreement specifying that both will stop fighting and prevent any further escalation in the confrontation."
+        },
+        {
+            "word": "discrimination",
+            "meaning": "भेदभाव, पक्षपात, तरफदारी,अंतर, विभेद,",
+            "sentence": "Discrimination on the grounds of age will become unlawful from October 2010 in European countries."
+        },
+        {
+            "word": "detrimental",
+            "meaning": "हानिकारक, नुकसानदेह, क्षतिकारक, अहितकर",
+            "sentence": "Eating and drinking while driving can have a detrimental effect on the vehicle as well as the passengers."
+        },
+        {
+            "word": "blatant",
+            "meaning": "घोर, खुला, स्पष्ट, खुल्लम-खुल्ला",
+            "sentence": "Wasn't this a blatant violation of the right to freedom of religion?"
+        },
+        {
+            "word": "insubordination",
+            "meaning": "अवज्ञा, आज्ञाभंग, अवहेलना, अनधीनता, अविनय",
+            "sentence": "He was obedient worker, but when sacked by the employer on the ground of insubordination, the union decided to go on strike."
+        },
+        {
+            "word": "foible",
+            "meaning": "कमजोरी, अवगुण, दुर्बलता, कमी",
+            "sentence": "Your good-hearted acceptance and tolerance of others ' foibles, goes a long way in maintaining harmony in your relationships."
+        },
+        {
+            "word": "unsolicited",
+            "meaning": "अनापेक्षित, अयाचित, अप्रार्थित, अकारण",
+            "sentence": "People all over the world have become very frustrated with unsolicited sales calls."
+        },
+        {
+            "word": "recrudescence",
+            "meaning": "फिर से फैलना, पुनः पनपना, पुनः प्रकोप ",
+            "sentence": "It is being observed by the doctors that the diseases like measles, which were hitherto considered disappeared from many parts of the world, are found to be in recrudescence. "
+        },
+        {
+            "word": "quiescent",
+            "meaning": "निष्क्रिय, शांत, निश्चल, अव्यक्त, अप्रकट, सुप्त",
+            "sentence": "Some of such infections convert to more advanced disease, in others infection appears to remain quiescent."
+        },
+        {
+            "word": "insomnia",
+            "meaning": "अनिद्रा, निद्रालोप, उनींदापन",
+            "sentence": "If you have been suffering from insomnia for long time, you may be depressed."
+        },
+        {
+            "word": "somatic ",
+            "meaning": "कायिक, दैहिक, शारीरिक",
+            "sentence": "Massage therapy affects depression and somatic symptoms in chronic fatigue syndrome."
+        },
+        {
+            "word": "prognosis ",
+            "meaning": "पूर्वानुमान, रोग निदान, लक्षणाधारित रोग निर्धारण, भावीफल",
+            "sentence": "It is difficult even for senior or experienced doctors to make any prognosis in the case of cancer patients."
+        },
+        {
+            "word": "fraudulent ",
+            "meaning": "कपटी, छली, कपटपूर्ण, छलपूर्ण, चालबाज, अधर्मी, बेईमान",
+            "sentence": "If any claim is found to be fraudulent in any way, this policy will not apply and all claims will be forfeited."
+        },
+        {
+            "word": "retrench ",
+            "meaning": "कम करना, घटाना, काटना, निकालना, छंटनी करना, हटाना, खर्च घटाना, किफायत करना",
+            "sentence": "Jet Airways said it would retrench excess staff to tackle the financial crisis it faces following the global slowdown."
+        },
+        {
+            "word": "pact ",
+            "meaning": "समझौता, संधि, संविदा, अनुबंध, वचन-पत्र, गठबंधन",
+            "sentence": "The United States has rejected North Korean demands for a military non-aggression pact."
+        },
+        {
+            "word": "relegate",
+            "meaning": "दूर करना, पीछे करना, हटाना निर्वासन, निष्कासन, बरख़ास्तगी बहिष्कार, अपकर्ष, पदावनति",
+            "sentence": "Creative subjects such as art, geography and music were relegated in favor of English, maths and science."
+        },
+        {
+            "word": "retrieval ",
+            "meaning": "फिर से प्राप्त करना, पुनः प्राप्ति, सुधार, पुनरूद्धार, बचाव, क्षतिपूर्ति",
+            "sentence": "The book aims to provide a modern approach to information retrieval from a computer science perspective."
+        },
+        {
+            "word": "transcendental",
+            "meaning": "मीमांसात्मक अनुभवातीत, भावातीत, लोकोत्तर, गूढ़, दुरूह, दुर्बोध, अतीद्रिंय",
+            "sentence": "More than six million people worldwide have learned the transcendental meditation techniques, which include people of all ages, cultures, and religions."
+        },
+        {
+            "word": "deport ",
+            "meaning": "निर्वासन, विवासन, देश निकाला",
+            "sentence": "Recently, a pregnant HIV positive woman was deported back to a country with no treatment for HIV."
+        },
+        {
+            "word": "purportedly",
+            "meaning": "कथित रूप से, अनुमानतः",
+            "sentence": "Investigators probing the 1.5-crores heist in the bank, in the suburb on Monday, got six fingerprints, which are purportedly of the robbers."
+        },
+        {
+            "word": "longevity ",
+            "meaning": "आयु, दीर्घायु, दीर्घजीवन, लम्बी आयु",
+            "sentence": "As per the latest census data, the people are getting better medical care in the community, therefore their longevity is rising."
+        },
+        {
+            "word": "ludicrous ",
+            "meaning": "बेतुका, बेढंगा, हास्यास्पद, उपहासपूर्ण",
+            "sentence": "Please keep your ludicrous accusations to yourself in future."
+        },
+        {
+            "word": "extrovert",
+            "meaning": "बहिर्मुखी, बहिर्मुख करना, बहिवर्तन करना, प्रकट करना",
+            "sentence": "Some men struggle with talking about certain things but I'm very lucky being quite extrovert and talking has never been a problem."
+        },
+        {
+            "word": "exuberant",
+            "meaning": "प्रचुर, भरपूर, समृद्ध, हराभरा, उल्लसित, प्रफुल्लित, उपजाऊ, उर्वर",
+            "sentence": "She was the greatest actress, and her exuberant acting talent which has entertained millions for the past decades will be greatly missed."
+        },
+        {
+            "word": "furore ",
+            "meaning": "सनक, फितूर, तीव्र उत्तेजना, कोपावेश, गुस्सा, क्रोध, जोश, उमंग, शोर-शराबा",
+            "sentence": "The book has been used for primary classes and has caused a furore in the north-eastern states, where more than 70% of the population is Christians."
+        },
+        {
+            "word": "hostile ",
+            "meaning": "शत्रुतापूर्ण, शत्रु, विरोधी, प्रतिपक्षी, प्रतिकूल, युद्ध संबंधी",
+            "sentence": "The region of north-eastern Kenya where at least 61 people were killed on Tuesday is one of the country's most hostile and remote terrains, where rival groups often clash."
+        },
+        {
+            "word": "implicit ",
+            "meaning": "अन्तर्निहित, अप्रत्यक्ष, परोक्ष, अव्यक्त, निहित, अंतर्ग्रस्त, उपलक्षित",
+            "sentence": "The love for his country and his empathy with its people is clearly implicit in his writing."
+        },
+        {
+            "word": "incurious",
+            "meaning": "उदासीन, अनुत्सुक, जिज्ञासा रहित, अनवधानी",
+            "sentence": "The preacher tried hard to explain the reality about the death and life, but the disciple seemed incurious."
+        },
+        {
+            "word": "infallible",
+            "meaning": "अमोघ, अचूक, अपरिहार्य",
+            "sentence": "Can fingerprints at a crime scene still be considered infallible evidence?"
+        },
+        {
+            "word": "nondescript",
+            "meaning": "अवर्णित, साधारण, अवर्गीकृत, अज्ञातकुल, विचित्र",
+            "sentence": "The book launch, in a non-descript hotel in downtown Lima, Italy attracted several hundred supporters."
+        },
+        {
+            "word": "petulant",
+            "meaning": "धृष्टतापूर्ण, चिड़चिड़ा, बदमिज़ाज, दुःशील, लंपट, व्यभिचारी, अविनीत, ढीठ, झक्की",
+            "sentence": "Sergio Garcia faces disciplinary action for his petulant behaviour during his third round at U.S. Wimbledon open. "
+        },
+        {
+            "word": "residual",
+            "meaning": "अवशेष, अवशिष्ट, बाकी",
+            "sentence": "The Government has decided to lower the taxes, so that the people of the country have more residual income in their hands, which will ultimately increase the demand."
+        },
+        {
+            "word": "preposterous",
+            "meaning": "बेतुका, बेढंगा, हास्यास्पद,  उपहासपूर्ण",
+            "sentence": "Head teachers say it is preposterous that schools in different areas of England get different amounts of money."
+        },
+        {
+            "word": "unfettered ",
+            "meaning": "मुक्त, निरंकुश, आज़ाद, बंधनमुक्त",
+            "sentence": "We believe that unfettered access to information is of utmost importance to the society as a whole."
+        },
+        {
+            "word": "subversive",
+            "meaning": "विध्वंसकारी, उलट देने वाला, नाश करने वाला, नाशकर, ध्वंसकारी ",
+            "sentence": "The Interior Minister said that subversive forces bent on overthrowing democracy were behind the protests."
+        },
+        {
+            "word": "rigorous",
+            "meaning": "सश्रम, कठोर, सख्त",
+            "sentence": "It took just 3 months to complete the trial and the judge pronounced a 14 year rigorous imprisonment for killing his wife mercilessly."
+        },
+        {
+            "word": "whittle down",
+            "meaning": "कम करना, घटाना, टुकड़े करने, काटना, छीलना",
+            "sentence": "After written examination, in which around 2800 candidates are likely to appear, personal interviews will be held to whittle the number down to 250."
+        },
+        {
+            "word": "vehemently ",
+            "meaning": "जोरदार, आवेगपूर्ण, सावेग, प्रबल, ओजस्वी, तीव्र, प्रचण्ड, संवेगी",
+            "sentence": "The-accused vehemently denied involvement in bomb attacks after newspapers claim he is a suspect in the bomb blasts."
+        },
+        {
+            "word": "shrewd ",
+            "meaning": "धूर्त, चतुर, चालाक, नटखट, समझदार, तेजी, तीक्ष्ण",
+            "sentence": "The police said that, not only the accused is intelligent but also a shrewd person and he has cheated more then 200 persons in the last year itself."
+        },
+        {
+            "word": "perspicacious",
+            "meaning": "विवेकशील कुशाग्र बुद्धि, ज़हीन, सूक्ष्मदर्शी",
+            "sentence": "He was a distinguished member of the Parliament, a man of immense learning, elegant oratory and a perspicacious personality, who died in the very young age."
+        },
+        {
+            "word": "pervert ",
+            "meaning": "विकृत करना, दूषित करना, दुरुपयोग करना, दूषित करना, बिगाड़ना, भ्रष्ट करना, बिगाड़ना",
+            "sentence": "He is also charged with possession of a firearm and attempting to pervert the course of justice."
+        },
+        {
+            "word": "longanimity",
+            "meaning": "सहिष्णुता, सहनशीलता, सब्र, धैर्यशीलता, संतोष",
+            "sentence": "Grandmother bore the trials and tribulations of her life with extreme longanimity."
+        },
+        {
+            "word": "momentous",
+            "meaning": "महान, महत्वपूर्ण, आवश्यक, ज़रूरी, बड़ा भारी, गुरुत्व-पूर्ण",
+            "sentence": "To celebrate this momentous occasion I hereby declare a four day national holiday with effect from tomorrow. "
+        },
+        {
+            "word": "referendum ",
+            "meaning": "जनमत-संग्रह, मत-संग्रह ",
+            "sentence": "The state of Estonia declared that it too planned to hold a referendum on independence at the earliest."
+        },
+        {
+            "word": "recondition ",
+            "meaning": "दुरुस्त करना, मरम्मत करना, पुनर्नवीयन, सुधार करना, नया कर देना",
+            "sentence": "In many poor countries of the world, the demand for reconditioned electronic parts is rising at a faster pace, but they are not able to understand the environmental issue behind it."
+        },
+        {
+            "word": "offshoot",
+            "meaning": "प्रशाखा, शाखा, उप शाखा, अंकुर",
+            "sentence": "Psychology began as a purely academic offshoot of natural philosophy."
+        },
+        {
+            "word": "trickster ",
+            "meaning": "चालबाज, चालाक, धूर्त, मक्कार, धोखेबाज, छली, शरारती, छलिया",
+            "sentence": "It was found by the Police that many persons are being fooled by tricksters for extracting money from them."
+        },
+        {
+            "word": "untiringly",
+            "meaning": "बिना थकान के, अथक, अत्यधिक परिश्रम",
+            "sentence": "In his speech, the opposition leader declared that he will continue to make efforts untiringly in order to achieve his goal."
+        },
+        {
+            "word": "endurance ",
+            "meaning": "सहनशीलता, सहनशक्ति, तितिक्षा, धैर्य, धीरज, स्थायित्व",
+            "sentence": "The race covers more than 40,000km through tropical and Arctic regions and is regarded as a serious test of endurance."
+        },
+        {
+            "word": "asthenia",
+            "meaning": "शक्तिहीनता, शक्तिक्षीणता, दौर्बल्य, शिथिलता, अवसन्नता, कमजोरी",
+            "sentence": "The most commonly reported flu symptoms are fever, chills, sweating, asthenia, headache and nausea."
+        },
+        {
+            "word": "jolt ",
+            "meaning": "आघात, झटका, धक्का, हचकोला",
+            "sentence": "The Finance Minister said that \"I believe that the biggest jolt has now passed through the global economy, but it is too early to claim victory, especially while unemployment is still rising in the West.\""
+        },
+        {
+            "word": "rescind",
+            "meaning": "रद्द करना, मंसूख करना, निरसन, काट देना, विखंडित करना, निरस्त करना, काट डालना, लोप करना, तोड़ना",
+            "sentence": "The vendor claimed that he had rescinded the contract on the purchaser's failure to comply with the notice to make the payment."
+        },
+        {
+            "word": "subvention ",
+            "meaning": "आर्थिक/वित्तीय सहायता, अनुदान, परिदान, इमदाद, राजकीय सहायता",
+            "sentence": "In whole of the Europe and America, the Governments are offering subventions to their farmers on regular basis."
+        },
+        {
+            "word": "tumultuous",
+            "meaning": "उथल-पुथल, उपद्रवी, ऊधमी उत्पाती, विक्षुब्ध, अशांत, उत्तेजित, उग्र, गड़बड़",
+            "sentence": "The president said later in a telephone interview with The Associated Press, \"We're passing through a tumultuous economic period.\" "
+        },
+        {
+            "word": "tumultuous",
+            "meaning": "उथल-पुथल, उपद्रवी, ऊधमी उत्पाती, विक्षुब्ध, अशांत, उत्तेजित, उग्र, गड़बड़",
+            "sentence": "The president said later in a telephone interview with The Associated Press, \"We're passing through a tumultuous economic period.\" "
+        },
+        {
+            "word": "astute ",
+            "meaning": "बुद्धिमान, कुशाग्र-बुद्धि, चतुर, विदग्ध, कपटी, कुटिल, घाघ, चालाक",
+            "sentence": "People who take out these types of personal loans are not considered as financially astute."
+        },
+        {
+            "word": "repudiate",
+            "meaning": "अस्वीकार/ खंडन करना, नकारना, इंकार करना, प्रत्याख्यान करना, छोड़ देना, त्यागना, परित्याग, संबंध-विच्छेद करना",
+            "sentence": "You or anyone acting on your behalf, must not negotiate, admit or repudiate any claim without our written consent."
+        },
+        {
+            "word": "succinct ",
+            "meaning": "संक्षिप्त, सारगर्भित, सामासिक, छोटा, तंग, लघु, अविस्तीर्ण",
+            "sentence": "The instructor of the programme asked, “Would you try to keep all the major ideas and make the text more succinct”?"
+        },
+        {
+            "word": "mediocre",
+            "meaning": "मध्यम-स्तर, साधारण, सामान्य, औसत, मामूली मध्यम",
+            "sentence": "The coach has consistently used his motivational skills to get the best from teams of mediocre players."
+        },
+        {
+            "word": "prerogative ",
+            "meaning": "विशेषाधिकार, परमाधिकार, प्राधिकार, वरियता, अधिमानता, प्राथमिकता, खास हक",
+            "sentence": "It is the prerogative of the High Court to accept or reject the public interest litigation in many countries."
+        },
+        {
+            "word": "fabulous ",
+            "meaning": "शानदार, उम्दा, भव्य, आश्चर्यजनक, उत्कृष्ट, विस्मयकारी, प्रसिद्ध, काल्पनिक, मिथ्या",
+            "sentence": "And best of all, you can win some fabulous prizes, the teacher announced."
+        },
+        {
+            "word": "elaborate",
+            "meaning": "विस्तृत, व्यापक, सविस्तार, सुपरिष्कृत, अलंकृत, सविस्तार, जटिल",
+            "sentence": "A good internet marketing specialist should be able to help you go through this elaborate process."
+        },
+        {
+            "word": "flaunt ",
+            "meaning": "इतरा कर प्रदर्शित करना, इठलाना, इतराना, फड़फड़ाना, झूमना, अकड़ कर चलना, अपनी शान दिखाना",
+            "sentence": "Some people go to great lengths to disguise their grey hair, whereas other people flaunt them."
+        },
+        {
+            "word": "acrimonious",
+            "meaning": "कटुतापूर्ण, उग्र, कटु, प्रचण्ड, तीक्ष्ण",
+            "sentence": "The Kenyan parliament approves a draft constitution, after nearly 20 years of acrimonious debate."
+        },
+        {
+            "word": "pinnacle",
+            "meaning": "चोटी, शिखर, शिखरिका, चरमोत्कर्ष, परमोत्कर्ष, पराकाष्ठा, कलश, कंगूरा, बुर्ज",
+            "sentence": "The Executive Officer of the travel company told the new manager that you have now reached the pinnacle of your career."
+        },
+        {
+            "word": "clamour ",
+            "meaning": "कोलाहल, शोर-शराबा, हो-हल्ला, चीत्कार, गुलगपाड़ा दुहाई, फरियाद, विरोध, दुहाई देना",
+            "sentence": "Given the clamour in the newspapers following the deaths of two teenagers this week, a lengthy delay would be politically disastrous."
+        },
+        {
+            "word": "discord",
+            "meaning": "विसंगति, विस्वरता, अनबन, असामंजस्यता मतभेद, फूट, विरोध,",
+            "sentence": "When we do evil, we create discord in the universal harmony, and we must restore that harmony."
+        },
+        {
+            "word": "evasion ",
+            "meaning": "अपवंचन, बचना, बहाना, टाल-मटोल, टाल-टूल, परिहार, बचाव",
+            "sentence": "Further, Russia and Romania have decided even lower tax rates to combat mass evasion."
+        },
+        {
+            "word": "fossil ",
+            "meaning": "जीवाश्म, जीवावशेष, पुराना, चट्टान, खनिज, रूढ़िवादी/ पुराणपंथी व्यक्ति,",
+            "sentence": "At the moment, fossil fuels still provide the majority of our energy requirements."
+        },
+        {
+            "word": "opacity ",
+            "meaning": "अपारदर्शिता, अपार्यता, अस्पष्टता",
+            "sentence": "In order to see the frame around your painting, reduce the opacity of your selected painting by around 50%."
+        },
+        {
+            "word": "creditable ",
+            "meaning": "विश्वसनीय, प्रशंसनीय, श्रेयस्कर, सराहनीय, कीर्तियोग्य, प्रत्ययनीय",
+            "sentence": "We feel that this is a particularly creditable achievement in view of the changes that have taken place over the past twelve months in the business scenario."
+        },
+        {
+            "word": "restoration",
+            "meaning": "जीर्णोद्धार, पुनरुद्धार, पुनः प्रतिष्ठा, पुन-स्थापन,  पुनर्नवीकरण,  मरम्मत स्वास्थ्य-लाभ, पुनःप्रचलन, प्रत्यावर्तन, अरोग्यता, बहाली",
+            "sentence": "The government-sponsored restoration project cost over ten million dollars and took more than eight years."
+        },
+        {
+            "word": "humane",
+            "meaning": "मानवीय, मानवोचित, सहृदय, दयापूर्ण, दयामय, दयालु, सांस्कृतिक, सुरुचि-सम्पन्न",
+            "sentence": "The  NGOs world over are demanding that while treating the poor patients, a more humane attitude should be adopted by the hospital authorities."
+        },
+        {
+            "word": "feckless",
+            "meaning": "लापरवाह, निर्जीव, निर्बल, निस्तेज, शक्तिहीन, असहाय, निरुत्साह, बेकार, बेफ्रिक",
+            "sentence": "Government IT projects either fail because of under-achieving suppliers or because of incompetent and feckless civil servants."
+        },
+        {
+            "word": "nimble",
+            "meaning": "दक्ष, फुरतीला, द्रुतगामी, चुस्त, सक्रिय, कुशल, तेज",
+            "sentence": "After the recession, many companies had proved nimble in identifying new market opportunities."
+        },
+        {
+            "word": "overrate ",
+            "meaning": "अनावश्यक महत्व देना, अधिमूल्यांकन, अधिक अनुमान करना",
+            "sentence": "Finally, we must not overrate the importance of these arms and ammunition, as the actual war is won by intelligent use thereof."
+        },
+        {
+            "word": "floriculture ",
+            "meaning": "पुष्पखेती, पुष्पोत्पादन, पुष्पकृषि",
+            "sentence": "After tourism, floriculture was the country's second largest foreign exchange earner in 2007."
+        },
+        {
+            "word": "recoup",
+            "meaning": "प्राप्त करना, क्षतिपूर्ति करना, घाटा पूरा करना, काट लेना, निकाल लेना ",
+            "sentence": "While considering the magnitude of the project, the process can be slow and it can take years to recoup initial expenses."
+        },
+        {
+            "word": "tortious ",
+            "meaning": "अन्यायपूर्ण, अनुचित, बेजा, अपराधपूर्ण, अपकृत्य",
+            "sentence": "Under these clauses of the new act, only when people are committing or threatening to commit a criminal or tortious act can they be prosecuted."
+        },
+        {
+            "word": "filth",
+            "meaning": "अश्लीलता, गंदगी, मैल, कचरा, अपवित्रता, अशुद्धता, अपशब्द, गाली, दुर्वचन",
+            "sentence": "We simply didn't expect to see such filth on the family shopping site."
+        },
+        {
+            "word": "preserve",
+            "meaning": "परिरक्षण करना, सुरक्षित रखना, बचाना, बनाए रखना, नष्ट न होने देना",
+            "sentence": "It is a fact that a large number of cold storages have been set up to preserve fruits and vegetables in the country."
+        },
+        {
+            "word": "microbiology",
+            "meaning": "सूक्ष्मजैविकी, अणुजीव-विज्ञान, सूक्ष्मजीव-विज्ञान",
+            "sentence": "The food inspector opined that this second food sample should be sent to the local microbiology laboratory for confirmation about contamination."
+        },
+        {
+            "word": "contort",
+            "meaning": "विकृत  करना, मरोड़ना, ऐंठना, टेढ़ा करना, रूप बिगाड़ना",
+            "sentence": "\"We're not going to contort the refugee laws to suit some people's political agenda,\" said the Home Minister in his speech."
+        },
+        {
+            "word": "empirical",
+            "meaning": "अनुभूतिमूलक, अनुभवसद्ध, आनुभविक, अनुभवाश्रित, प्रयोगाश्रित, अनुभवजन्य",
+            "sentence": "This law is purely empirical and it makes no attempt to explain the phenomenon."
+        },
+        {
+            "word": "transgress",
+            "meaning": "अतिक्रमण करना, उल्लंघन करना, अतिचार करना, भंग करना, अपराध करना, पाप करना",
+            "sentence": "\"Executive is also a constitutional authority...... If some constitutional authority attempts to transgress jurisdiction of another constitutional authority, Executive will have to say something,\" said the Minister."
+        },
+        {
+            "word": "pretentious",
+            "meaning": "आडम्बरयुक्त, कपटी, छली, धूर्त, धृष्ठ, ढीठ, मिथ्याभिमानी",
+            "sentence": "“The dialogues are poor and the whole movie just seems far too pretentious for me”, said the reviewer."
+        },
+        {
+            "word": "transmogrify",
+            "meaning": "परिवर्तित हो जाना बदल जाना,  कायाकल्प, कायापलट कर देना",
+            "sentence": "In the play, the acter suddenly transmogrified into a monster."
+        },
+        {
+            "word": "shoddy",
+            "meaning": "घटिया, रद्दी, निकम्मा, नकारा, बेकाम, नकली, सस्ता",
+            "sentence": "Low-quality housing and shoddy construction is often a primary cause of death and serious injury to the labourers."
+        },
+        {
+            "word": "translucent",
+            "meaning": "पारभासी, निर्मल, स्वच्छ, स्पष्ट",
+            "sentence": "Add the rice and cook gently until the grains begin to turn translucent."
+        },
+        {
+            "word": "Mannequin",
+            "meaning": "पुतला, डम्मी",
+            "sentence": "In the melee which took place outside the store, some persons were injured and others resorted to tearing the clothes off display mannequins."
+        },
+        {
+            "word": "yammer",
+            "meaning": "विलाप करना, रिरियाना, शोक मनाना, चीखना, चिल्लाना, शिकायत करना",
+            "sentence": "You can hear animals yammer in the meadows."
+        },
+        {
+            "word": "zealot",
+            "meaning": "कट्टरपंथी, कट्टर समर्थक, धर्मान्ध, जोशीला, कट्टर, अति उत्साही जन",
+            "sentence": "Afghanistan's former Justice Minister is a religious zealot known for ruthlessly implementing the Taliban's strict laws. "
+        },
+        {
+            "word": "waive",
+            "meaning": "त्याग देना, छोड़ देना, जाने देना, आस्थगित करना, माफ करना, महत्व नहीं देना, हटा देना, दूर करना, हटाना, के लिए आग्रह नहीं करना",
+            "sentence": "Canada, which signed up to comply with the WTO rules, has already threatened to waive the Bayer patent. "
+        },
+        {
+            "word": "ultimo",
+            "meaning": "गत मास का, गत मास",
+            "sentence": "Your letter was received on 29th ultimo."
+        },
+        {
+            "word": "unpredictable ",
+            "meaning": "अपूर्वानुमेय, अननुमेय, मनमौजी, तरंगी",
+            "sentence": "Marsupial rats can store fat in their tail as a buffer against food shortage, a good strategy in the unpredictable desert."
+        },
+        {
+            "word": "sortie ",
+            "meaning": "सामरिक उड़ान, उड़ान, धावा, झपट, सैन्य हमला या आक्रमण",
+            "sentence": "In late 1939, 21 out of 36 bombers on one sortie failed to return."
+        },
+        {
+            "word": "radial ",
+            "meaning": "अरीय, त्रिज्य, त्रिज्यीय, अर्धव्यास का, अर्धव्यास के समान, किरण समकक्ष",
+            "sentence": "The measurements of the radial pulse wave show how the blood vessel becomes more flexible and thereby reduces stress on the heart. "
+        },
+        {
+            "word": "quadrennial",
+            "meaning": "चतुर्वार्षिक, चौसाला, चार वर्षों में एक बार",
+            "sentence": "The most successful and spectacular Commonwealth Games in the history of the quadrennial event were staged this year. "
+        },
+        {
+            "word": "gag ",
+            "meaning": "गला घोटना, प्रतिबन्ध लगाना, मुंह बन्द करना, चुप करना, मुंह में ठूंसी हुई वस्तु, धोखा देना, पाखंड करना, सफेद झूठ, बोलने न देना, ठेंठी लगाना",
+            "sentence": "The burglars gagged the home owner and tied him to a chair."
+        },
+        {
+            "word": "daltonism ",
+            "meaning": "वर्णान्धता",
+            "sentence": "As the man was found to be suffering from daltonism, so the authorities denied him the appointment in the railways. "
+        },
+        {
+            "word": "earnest",
+            "meaning": "उत्साही, जोशीला, ईमानदारी, सच्चा, सच्चाई, गांभीर्य, बयाना, पेशगी, साई, अग्रिम धन, वचन, प्रतिज्ञा, महत्वपूर्ण",
+            "sentence": "Shooting schedule will begin in earnest around June 2010. "
+        },
+        {
+            "word": "obeisance ",
+            "meaning": "श्रद्धा, प्रणति, अभिवादन, प्रणाम, आदर-सत्कार , नमन, नमस्कार, सम्मान",
+            "sentence": "The family would visit Punjab's famous Golden temple to \"pay obeisance for his success\"."
+        },
+        {
+            "word": "lullaby ",
+            "meaning": "लोरी, बच्चों को सुलाने के लिए गीत",
+            "sentence": "Some children thought that they could compose a lullaby, paint a picture, or make a teddy bear."
+        },
+        {
+            "word": "rivulet ",
+            "meaning": "छोटी नदी, धार, नदिका, नाला",
+            "sentence": "But, requesting anonymity, some customs staff told the BBC that at night, smugglers fix ropes at both sides of a rivulet that separates the Nepal-Tibet border."
+        },
+        {
+            "word": "scrimmage ",
+            "meaning": "भिडंत, हाथापाई, मुठभेड़, धक्कामुक्की, छीना झपटी",
+            "sentence": "The soccer scrimmage gave the players confidence for the later game."
+        },
+        {
+            "word": "voracious ",
+            "meaning": "भुक्खड़, अतिलोलुप, औदरिक, खाऊ, पेटू, भुखमरा, मरभुक्खा, अति लालची, अतोषणीय,  लालची",
+            "sentence": "Suddenly a colony of extremely voracious ants were crawling across my legs."
+        },
+        {
+            "word": "weevil ",
+            "meaning": "घुन, घुण, कीड़ा",
+            "sentence": "You could see the weevils that have infested the rice. "
+        },
+        {
+            "word": "vivacity ",
+            "meaning": "सजीवता, जिंदादिली, ओज, जोश, उत्साह, दीप्ति, चमकीलापन",
+            "sentence": "The players performed with lot of vivacity and it was lapped up by the crowd."
+        },
+        {
+            "word": "unfasten ",
+            "meaning": "खोलना, ढीला करना",
+            "sentence": "When Sachin was six, we decided that he needed to know how to fasten and unfasten his seat belt."
+        },
+        {
+            "word": "unquestionable ",
+            "meaning": "निर्विवाद,  असंदिग्ध,  असंदिग्ध , प्रश्नातीत, अविवाद्य, असंदेही,  अशंकनीय, संदेहरहित",
+            "sentence": "\"I will propose a substantial increase in troops' wages in recognition of the unquestionable effort and loyalty of our armed forces,\" President said."
+        },
+        {
+            "word": "impeccable",
+            "meaning": "दोष रहित, पाप रहित, निर्दोष, त्रुटि रहित, त्रुटिहीन",
+            "sentence": "If the service is not impeccable, that customer is likely to be put off for life"
+        },
+        {
+            "word": "abase ",
+            "meaning": "अवमानित करना, नीचा दिखाना, अपमान करना पदावनत करना, अवनत करना, मानहानि, अपकर्ष, तिरस्कार करना, अनादर करना",
+            "sentence": "Never in the 30 years of my career as a theatre critic have I felt so besmirched, so abased and so insulted,\" he said."
+        },
+        {
+            "word": "backslide",
+            "meaning": "पिछड़ना, वापस मुड़ना, प्रत्यावर्तन, धर्म त्याग, पतित होना, विचलित होना, पथभ्रष्ट होना, धर्म च्युत होना",
+            "sentence": "The French government, like the German government, knows this is not the time for the economy to backslide. "
+        },
+        {
+            "word": "facinorous",
+            "meaning": "उत्यधिक भ्रष्ट, दुराचारी, अन्यायी, बहुत बुरा, उत्पाती  ",
+            "sentence": "\"I will speak no ill of my opponent in this election campaign. All of us recognize and accept his truly facinorous nature.\""
+        },
+        {
+            "word": "lacerate",
+            "meaning": "चीरना, फाड़ना, आघात पहुंचाना, विदीर्ण करना, दुखाना",
+            "sentence": "You ought to address the problem of mother's lacerated foot."
+        },
+        {
+            "word": "xenophobia",
+            "meaning": " विदेशी जन भय, विदेशी जन भीति, अज्ञातजन भीति, विदेशी भीति, विदेशियों के प्रति घृणा या विकर्षण",
+            "sentence": "In the wave of xenophobia that swept over the United States during World War I, a literacy requirement was imposed in 1917."
+        },
+        {
+            "word": "xenophobia",
+            "meaning": " विदेशी जन भय, विदेशी जन भीति, अज्ञातजन भीति, विदेशी भीति, विदेशियों के प्रति घृणा या विकर्षण",
+            "sentence": "In the wave of xenophobia that swept over the United States during World War I, a literacy requirement was imposed in 1917."
+        },
+        {
+            "word": "insidious ",
+            "meaning": "कपटपूर्ण, धोखेबाज, कपटी, प्रपंची, घातक, छली, धूर्त, मक्कार ",
+            "sentence": "I know we are working against an enemy who is very insidious in his methods."
+        },
+        {
+            "word": "inquisitiveness",
+            "meaning": "जिज्ञासा, कुतूहल, अन्वेषणशीलता",
+            "sentence": "In every training session, for the naturally inquisitive person  the first question must be 'What?' "
+        },
+        {
+            "word": "homogeneous",
+            "meaning": "समान, सदृश सजातीय, एकरूप, समशील, समरूप, समांगी, एक प्रकार का",
+            "sentence": "Scotland, Wales and Ireland are fairly homogeneous nations, each with its own clearly defined character and culture."
+        },
+        {
+            "word": "exhaustive",
+            "meaning": "पूर्ण, परिपूर्ण , सर्वांगीण,  विस्तृत, सर्वग्राही,  पूरी, व्यापक, सुविस्तृत, थकाने वाला, सोखने वाला",
+            "sentence": "While addressing the shareholders, the Managing Director told that “This list is not exhaustive as some reports have not yet been received”."
+        },
+        {
+            "word": "plagiarize ",
+            "meaning": "साहित्यिक चोरी",
+            "sentence": "Investigation showed that he also not only plagiarized work while in law school but also exaggerated his academic record."
+        },
+        {
+            "word": "cahoot",
+            "meaning": "मिली भगत, साठ-गांठ",
+            "sentence": "The construction companies are all in cahoots with the local politicians."
+        },
+        {
+            "word": "eventually",
+            "meaning": "अंततः, आखिरकार, फलतः, अंत में, अंततोगत्वा",
+            "sentence": "The criminal disclosed all the facts of the case eventually."
+        },
+        {
+            "word": "exploration",
+            "meaning": "अन्वेषण ,समन्वेषण,  गवेषणा , खोज, छानबीन ",
+            "sentence": "There is excellent mineral exploration potential adjacent to the already identified resources."
+        },
+        {
+            "word": "nod",
+            "meaning": "सम्मति, सिर का हिलाना, हुक्म, आज्ञा, सहमति व्यक्त करना, सहमति देना",
+            "sentence": "Most of us live in the material world, with an occasional nod in the direction of the spiritual."
+        },
+        {
+            "word": "indict",
+            "meaning": "अभ्यारोपित करना, अभ्यारोपण करना, अभियोग लगाना, दोष लगाना,  तोहमत लगाना, इलज़ाम लगाना ",
+            "sentence": "A wide range of charges was built up against him, and he was indicted on several counts in 1988."
+        },
+        {
+            "word": "entrap ",
+            "meaning": "फंसाना, जाल में फंसाना, पाश, फुसलाना",
+            "sentence": "In modern credit card system you are entrapped in a web of debt and there is no way to come out of it."
+        },
+        {
+            "word": "divulge ",
+            "meaning": "प्रकट करना, बताना, रहस्य खोलना, खोल देना, बता देना, उदघाटित करना, रहस्योघाटन करना",
+            "sentence": "The manager said that, “No, we do not divulge any customer's details to any third parties”."
+        },
+        {
+            "word": "impasse ",
+            "meaning": "गतिरोध, अवरोध, रूकावट, बंद रास्ता, बंद गली, विकट स्थिति, जटिल स्थिति, गत्यावरोध",
+            "sentence": "We are greatly dismayed at the continued impasse in the conference on Disarmament."
+        },
+        {
+            "word": "matutinal ",
+            "meaning": "प्रातः कालीन, सवेरे का, प्राभातिक, प्रातः संबंधी, प्रातः कालीय",
+            "sentence": "I never enjoyed matutinal activities until I had at least had my coffee!"
+        },
+        {
+            "word": "ditto ",
+            "meaning": "तदैव, तथैप, यथोपरि, वही, पूर्वोक्त, हुबहू",
+            "sentence": "In these books ditto marks have been replaced with the applicable actual wording."
+        },
+        {
+            "word": "chastity ",
+            "meaning": "शुचिता, शुद्धता, पातिव्रत, पातिव्रत्य, सतीत्व, विशुद्धता, कुमारीत्व, ब्रह्मचर्य, इंद्रिय-निग्रह, सत्य",
+            "sentence": "Female chastity and fidelity, necessary for a stable marriage, require male chastity and fidelity too."
+        },
+        {
+            "word": "enshroud ",
+            "meaning": "छिपाना, परदा डालना, ढ़क देना, ढ़का हुआ",
+            "sentence": "However, the central region of this galaxy is enshrouded in dust, as a result the regions where stars are formed are hidden."
+        },
+        {
+            "word": "sojourn",
+            "meaning": "अस्थाई बसेरा, थोड़ी देर के लिए रूकना, ठहरना, टिकना, डेरा डालना, पड़ाव, बसेरा, अवस्थान, विराम",
+            "sentence": "The only purpose of the mortal body of flesh is to serve the immortal spirit during its brief sojourn in the material world."
+        },
+        {
+            "word": "tillage ",
+            "meaning": "जुताई, कृषि, खेती, जोत, खेती-बाड़ी, काश्त, कृषिकर्म",
+            "sentence": "The Parliament this week approved a Rupees 50 million budget to provide tillage in-puts for the resettlement of farmers."
+        },
+        {
+            "word": "unravel ",
+            "meaning": "सुलझाना, उधेड़ना, खोलना, स्पष्ट करना",
+            "sentence": "The police tried hard to unravel the mystery of killing."
+        },
+        {
+            "word": "proximo",
+            "meaning": "अगले माह का, आगामी महीना",
+            "sentence": "The cricket team of England will be arriving here 30th proximo, said the reporter. "
+        },
+        {
+            "word": "endurance ",
+            "meaning": "सहनशीलता , धैर्य, स्थायित्व, तितिक्षा, सहनशक्ति, धीरज",
+            "sentence": "The objective of the exercise program is to increase muscle strength and cardiovascular endurance."
+        },
+        {
+            "word": "impenetrable ",
+            "meaning": "अभेद्य, अज्ञेय, अगम्य, अनुदार",
+            "sentence": "No password-protected system of data storage and retrieval can be made entirely impenetrable."
+        },
+        {
+            "word": "judicious ",
+            "meaning": "विवेकपूर्ण, न्यायसम्मत, विवेकशील, न्यायसंगत, विवेकी, विवेचित, प्रज्ञ, बुद्धिमान, समझदार",
+            "sentence": "He should be more judicious in selecting his shots and his batting should now become more responsible."
+        },
+        {
+            "word": "oculist ",
+            "meaning": "नेत्रचिकित्सक, नेत्र विशेषज्ञ",
+            "sentence": "The team of emergency doctors decided to call an oculist for a patient who suffered eye injury in the accident."
+        },
+        {
+            "word": "granary ",
+            "meaning": "अन्नागार, धान्यागार, कोठार, अन्नभंडार, खत्ती",
+            "sentence": "The village head decided to build a large granary to protect the grain from the weevils."
+        },
+        {
+            "word": "stopgap ",
+            "meaning": "कामचलाऊ, अंतरकालीन, स्थानापन्न, अंतःकालीन",
+            "sentence": "Despite all the stopgap measures, the automobile companies were unable to develop the design of the fuel injection system to meet the changing requirements of its users."
+        },
+        {
+            "word": "treacherous",
+            "meaning": "विश्वासघाती, बेईमान, कपटी, निष्ठाहीन, छली, मायावी, अविश्वसनीय, छलपूर्ण, अधर्मी, अविश्वास्य, कपटी, अस्थिर दुर्गम",
+            "sentence": "This gentleman plays the role of a treacherous aristocrat who betrays his king and country."
+        },
+        {
+            "word": "truncate",
+            "meaning": "छोटा करना, संक्षिप्तीकरण, विकृत, सीमित करना, संक्षिप्त करना",
+            "sentence": "I do not see any purpose in embarking on such a limited review at this stage as it would unnecessarily truncate the review process and waste scarce judicial and other resources."
+        },
+        {
+            "word": "antagonist",
+            "meaning": "विरोधी, प्रतिद्वन्दी, प्रतिरोधी, प्रतिपक्षी, प्रतिवादी, विपक्षी, शत्रु, बैरी",
+            "sentence": "The young boy was real antagonist because he always got in a fight with his mother in the movie."
+        },
+        {
+            "word": "plaintiff",
+            "meaning": "वादी, मुद्दई, अभियोक्ता, अभिवादी",
+            "sentence": "If an injured plaintiff is treated in hospital as a private patient he is entitled to recover the cost of that treatment."
+        },
+        {
+            "word": "moan",
+            "meaning": "कराहना, विलाप करना, शोक करना, रंज करना",
+            "sentence": "The trouble is that we always moan about the weather, over which we don’t have any control."
+        },
+        {
+            "word": "libelous",
+            "meaning": "अपलेखात्मक, अपमानजनक, निन्दात्मक, अपमानकारी",
+            "sentence": "The Partner will be solely responsible for ensuring that materials posted on their web site are not libelous or otherwise illegal."
+        },
+        {
+            "word": "hen-hearted",
+            "meaning": "डरपोक, भीरू, कायर",
+            "sentence": "A hen-hearted fellow has been put forward as the candidate to fight an election against a well established candidate of other party."
+        },
+        {
+            "word": "garrulous",
+            "meaning": "बातूनी, वकवादी, बहुत बोलने वाला, वाचाल, गप्पी, झक्की",
+            "sentence": "On an aircraft to Mumbai, he meets a garrulous young woman from Delhi."
+        },
+        {
+            "word": "inevitable",
+            "meaning": "अपरिहार्य, आवश्यक, स्वाभाविक",
+            "sentence": "The economists say that job losses are inevitable as result of global melt-down."
+        },
+        {
+            "word": "fastidious",
+            "meaning": "तुनकमिजाज, दुस्तोषणीय, नाजुक मिजाज, सुकुमार, नकचढ़ा",
+            "sentence": "He was hated by almost every colleague in the office because of his fastidious nature."
+        },
+        {
+            "word": "inscrutable",
+            "meaning": "निगूढ़, अगम्य रहस्यमय, अतर्क्य, अबोधगम्य, अलक्ष्य",
+            "sentence": "The killer left no clues, and the murder remains an inscrutable mystery."
+        },
+        {
+            "word": "graphology ",
+            "meaning": "लिपि-विज्ञान, हस्त लिपि विश्लेषण",
+            "sentence": "The letter should be hand-written as many employers use graphology (handwriting analysis) as part of the selection process."
+        },
+        {
+            "word": "mingle",
+            "meaning": "घुल मिल जाना, मिश्रण करना, मिलाना, मिल जाना, सम्मिलित होना, मिलना-जुलना, मिलना",
+            "sentence": "In metro cities, the local population mingles freely with visitors."
+        },
+        {
+            "word": "odyssey ",
+            "meaning": "यात्रा, भ्रमण, घूमना फिरना, लंबी यात्रा",
+            "sentence": "Out of the total 26 scientists selected for the training only four will be lucky enough to go for the space odyssey. "
+        },
+        {
+            "word": "outlaw",
+            "meaning": "अवैध, विधिबहिष्कृत, निर्वासित, गैरकानूनी, भगोड़ा, डाकू",
+            "sentence": "In the longer term, we ask you to introduce legislation to outlaw incitement to violence."
+        },
+        {
+            "word": "oblivious ",
+            "meaning": "भूल जाना, भुलक्कड़, विस्मरणशील",
+            "sentence": "There can never be peace without justice, but he appears oblivious to this truth."
+        },
+        {
+            "word": "mezzanine ",
+            "meaning": "बीच का तल्ला, रंग मंच का तहखाना, मध्यतल, परछत्ती",
+            "sentence": "The restaurant is divided into two floors: the mezzanine floor and the ground floor with the bars in the middle."
+        },
+        {
+            "word": "premonition ",
+            "meaning": "पूर्वाभास, पूर्वसूचना, चेतावनी, पूर्वबोध, भविष्यवाक्य, पूर्वसंकेत",
+            "sentence": "It is said that neither wild nor domestic animals appear to have any premonition of death."
+        },
+        {
+            "word": "sobriety ",
+            "meaning": "परहेज, संयम, गम्भीरता, गांभीर्य.",
+            "sentence": "There are over 3,000 groups throughout the country dedicated to helping those with a serious alcohol problem so that they can achieve sobriety."
+        },
+        {
+            "word": "prescient",
+            "meaning": "पूर्वज्ञानी, दूरदर्शी, भविष्यदर्शी, भविष्य-ज्ञानी",
+            "sentence": "In India, you can found many saints in the Himalayan region who can be called as prescient."
+        },
+        {
+            "word": "tepid",
+            "meaning": "उत्साहहीन, गुनगुना, बेमन से दिया गया, कुछ-कुछ गर्म, कुनकुना, ढीला, शिथिल, निरुत्साह",
+            "sentence": "I am so disappointed that the public reaction to this inflation issue has been so tepid."
+        },
+        {
+            "word": "imperceptible",
+            "meaning": "अतिसूक्ष्म, अतीन्द्रिय, अगोचर, दुर्गाह्य, सूक्ष्म, अदृश्य",
+            "sentence": "At an almost imperceptible signal from their leader, the crowd fell into grave-like quiet."
+        },
+        {
+            "word": "bizarre",
+            "meaning": "अनोखी, अनोखा, गड़बड़, बेतुका, अजीब, विचित्र, तर्कहीन",
+            "sentence": "Physics is not dry facts but more and more a philosophy encompassing concepts which are bizarre, and completely outside everyday life."
+        },
+        {
+            "word": "brevity",
+            "meaning": "संक्षिप्तता, अल्पता, अल्पकालीनता, लघुता, कमी, संक्षेप",
+            "sentence": "The candidates should not waste time copying out the question title, given the brevity of some answers."
+        },
+        {
+            "word": "grandiose",
+            "meaning": "आडम्बरपूर्ण, वैभवशाली, विशाल, महान, सुंदर, भव्य, शानदार, प्रतापी",
+            "sentence": "The president said in the meeting of army commanders. \"We have grandiose military plans and they are absolutely realistic\" ."
+        },
+        {
+            "word": "incuriosity",
+            "meaning": "अनुत्सुकता, जिज्ञासा-शून्यता, अनवधानता लापरवाही , बेपरवाही ",
+            "sentence": "What's more surprising, there's complete incuriosity about the situation on the ground in Kosovo."
+        },
+        {
+            "word": "licit",
+            "meaning": "वैध, विधि-सम्मत, विधि-संगत, विधि-अनुकूल, धर्म-संगत, अनुज्ञात, अनुमत, शास्त्र-सम्मत, शास्त्रानुसार",
+            "sentence": "\"No circumstance, no purpose, no law whatsoever can ever make licit an act which is intrinsically illicit.\""
+        },
+        {
+            "word": "moonshine",
+            "meaning": "बकवास, अनाप-शनाप, बकबक, प्रलाप, बकवाद",
+            "sentence": "In 1933 Rutherford dismissed talk of atomic power as 'moonshine'."
+        },
+        {
+            "word": "incognito",
+            "meaning": "अज्ञात, गुप्त रूप से, अप्रकट, चुपके से, भेष बदल कर, छद्म भेष में, छद्म रूप से",
+            "sentence": "A vehicle examiner had carried out an incognito check of the car and had found shortcomings in the repair."
+        },
+        {
+            "word": "outworn",
+            "meaning": "घिसे-पिटे, जीर्ण-शीर्ण, प्राचीन, घिसा हुआ, फटा हुआ",
+            "sentence": "I know that opposition member might be wrong, but still I don't want to refute this outworn idea."
+        },
+        {
+            "word": "sporadic",
+            "meaning": "इक्का-दुक्का, छुट-पुट, यत्र-तत्र, विकीर्ण, कहीं-कहीं, विरल",
+            "sentence": "Apart from hearing sporadic gunfire, the day was pretty quiet."
+        },
+        {
+            "word": "depredation",
+            "meaning": "लूटमार, लूट खसोट, विध्वंस, विनाश, लूटपाट, मारकाट",
+            "sentence": "The depredations of human hunters are thought to have been the key factor that pushed many species to extinction."
+        },
+        {
+            "word": "evensong",
+            "meaning": "संध्यावंदन, संध्यवंदन",
+            "sentence": "We hope that many of you will come to meet old friends who will come to attend evensong in chapel."
+        },
+        {
+            "word": "indubitable",
+            "meaning": "असंदिग्ध, सुनिश्चित, संशयहीन, संशयरहित, निःशंक, पक्का, निश्चित",
+            "sentence": "In this yoga session, we may attain indubitable knowledge which is not derived from the sensory realm."
+        },
+        {
+            "word": "revile",
+            "meaning": "निंदा करना, गाली देना, धिक्कारना, बुरा कहना, फजीहत करना, झिड़कना",
+            "sentence": "It is forbidden to insult or revile another person or officer in the office."
+        },
+        {
+            "word": "psephology",
+            "meaning": "चुनाव विश्लेषण",
+            "sentence": "University of California started a course in psephology, which is in great demand nowadays."
+        },
+        {
+            "word": "fatuous",
+            "meaning": "मूर्ख, वेबक़ूफ, ऊटपटांग, अनर्गल, मूर्खतापूर्ण निर्बुद्धि, जड़, मूढ़, मंदबुद्धि, अल्पबुद्धि",
+            "sentence": "This is going to sound completely fatuous, but it's my honest answer."
+        },
+        {
+            "word": "punitive",
+            "meaning": "दंडात्मक, दांडिक",
+            "sentence": "A UN report on Iran's nuclear work is being forwarded to the Security Council for possible punitive action."
+        },
+        {
+            "word": "riparian",
+            "meaning": "नदीतटीय, तटवर्ती, नदीतटवर्ती, नदीतटीय, नदीतटवासी, नदीतटभू- स्वामी, अनुनदभू-स्वामी",
+            "sentence": "The Environment Agency has published a guide for riparian homeowners, asking them to keep their river banks clear."
+        },
+        {
+            "word": "apposite",
+            "meaning": "उपयुक्त , युक्त, संगत, समुचित, यथार्थ",
+            "sentence": "It is, however, apposite to note that this process will continue in the year ahead."
+        },
+        {
+            "word": "loathsome",
+            "meaning": "घृणित, घृणास्पद, वीभत्स, घिनौना",
+            "sentence": "I have no doubt that anyone religious would find these killings very loathsome."
+        },
+        {
+            "word": "fratricide",
+            "meaning": "भ्रातृहत्या, भ्रातृघातक, भ्रातृहन्ता, भ्रातृवध",
+            "sentence": "In a case of fratricide, a drunken constable allegedly opened indiscriminate fire at his colleagues and killed six of them."
+        },
+        {
+            "word": "incongruous",
+            "meaning": "असंगत, बेतुका, बेमेल, अनुपयुक्त, असर्वांगसम",
+            "sentence": "There seems to be something incongruous about these proposals from the start."
+        },
+        {
+            "word": "ovation",
+            "meaning": "जय-जयकार, साधुवाद, अभिनंदन, करतलध्वनि, शाबाशी, उत्साहपूर्ण स्वागत, प्रहर्ष",
+            "sentence": "The Assembly gave a standing ovation to the school students who secured above 95% marks in the exam."
+        },
+        {
+            "word": "primiparous",
+            "meaning": "प्रथमप्रसवा",
+            "sentence": "According to medical science, there exists a larger risk of pregnancy related complications among primiparous women."
+        },
+        {
+            "word": "becloud",
+            "meaning": "पर्दा डालना, छिपाना, बादलों से ढकना",
+            "sentence": "The crime branch stated that the vital facts have been hidden in this case and the apathy of the police further beclouded the matter."
+        },
+        {
+            "word": "timorous",
+            "meaning": "कायर, भीरु, डरपोक, डरा हुआ, कातर",
+            "sentence": "The vast majority of people in dictator ruled states are most likely too timorous or too intimidated to do anything about it."
+        },
+        {
+            "word": "exacerbate",
+            "meaning": "बढ़ाना, तीव्र करना , तेज करना, चिढ़ाना, खिझाना",
+            "sentence": "\"It would worsen an already weak job market and exacerbate the financial crisis,\" Bush said. \""
+        },
+        {
+            "word": "perfidy",
+            "meaning": "नमकहरामी, विश्वासघात, दगा, कपट, धोखा",
+            "sentence": "I would not believe that such perfidy is common among the locals."
+        },
+        {
+            "word": "renunciation",
+            "meaning": "परित्याग, त्याग, नामंजूरी, स्वत्व-त्याग, सन्यास, अपरिग्रह",
+            "sentence": "Only with total interior renunciation will you recognize God's love."
+        },
+        {
+            "word": "capitulate",
+            "meaning": "आत्मसमर्पण, हारना, झुकना, शर्तों को मान लेना, हथियार डाल देना, संधि करना",
+            "sentence": "All these leaders have got us into this trouble and now they are on the brink of capitulating completely."
+        },
+        {
+            "word": "astound",
+            "meaning": "अचंभित करना",
+            "sentence": " If we did all the things we are capable of, we would literally astound ourselves."
+        },
+        {
+            "word": "refute",
+            "meaning": "खण्डन करना",
+            "sentence": "Silence is one of the hardest arguments to refute."
+        },
+        {
+            "word": "perfection ",
+            "meaning": "उत्कृष्टता",
+            "sentence": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
+        },
+        {
+            "word": "conjecture",
+            "meaning": "अनुमान लगाना, अंदाज, आकलन, अटकल लगाना, कल्पना करना, ख्याल लगाना",
+            "sentence": "We have to conjecture what the Board's reasons were to take such an irrational decision."
+        },
+        {
+            "word": "resemblance",
+            "meaning": "समानता, सादृश्यता, समानता, प्रतिरूप, चित्र, साम्य, समरूपता",
+            "sentence": "I am not an expert in the field but even I can see a striking resemblance in style."
+        },
+        {
+            "word": "superficial",
+            "meaning": "सतही, कच्चा, छिछला, बाहरी, सामान्य, स्पष्ट, अल्पज्ञ, मोटा, बाहरी, आभासी, सरसरी, छिछोरापन, सतहीपन",
+            "sentence": "Although the committee has submitted its reports on the riots but its looks like a superficial report not giving the true picture of the reality."
+        },
+        {
+            "word": "posterior",
+            "meaning": "पश्च, पिछला, पिछवाड़ा, परवर्ती, उत्तरवर्ती",
+            "sentence": "Take X-ray from posterior side to ascertain whether the problem is in the left or right or both lungs."
+        },
+        {
+            "word": "post-partum",
+            "meaning": "प्रसवोत्तर",
+            "sentence": "Periodic monitoring of blood pressure is recommended in postpartum women"
+        },
+        {
+            "word": "antagonism",
+            "meaning": "संघर्ष,प्रतिरोध, बैर, शत्रुता, लाग, विरोध, बैर",
+            "sentence": "\"We had to struggle with the old enemies of peace, business and financial monopoly, class antagonism, sectionalism, war profiteering,\" said the President Franklin Roosevelt"
+        },
+        {
+            "word": "stolid",
+            "meaning": "धीर, स्थिरमति, शांत, निरुद्वेग, निरुत्साह, बेजान, भावशून्य, निर्विकार",
+            "sentence": "They are stolid, dependable people, and have more facial hair than anybody else."
+        },
+        {
+            "word": "venerable",
+            "meaning": "आदरणीय, श्रद्धेय, पूजनीय, पूज्य, श्रद्धास्पद",
+            "sentence": "In the whole Indian society, the teachers are treated as venerable persons."
+        },
+        {
+            "word": "unprincipled",
+            "meaning": "सिद्धान्तहीन, अनैतिक, चरित्रहीन, अनैतिक, अधर्मी, दुराचारी",
+            "sentence": "It is evident that the whole country is being ruled by some of the unprincipled leaders."
+        },
+        {
+            "word": "fathom",
+            "meaning": "थाह लेना, पूर्ण रूप से समझना, पैठना, नापना",
+            "sentence": "The finite mind of the human being cannot fathom the mysteries of God."
+        },
+        {
+            "word": "halo",
+            "meaning": "प्रभामंडल, भामण्डल, परिवेश, तेजोवलय, कुण्डल, मण्डल",
+            "sentence": "The Chandra X-ray observatory detects a giant halo of hot gas around a nearby galaxy."
+        },
+        {
+            "word": "halo",
+            "meaning": "प्रभामंडल, भामण्डल, परिवेश, तेजोवलय, कुण्डल, मण्डल",
+            "sentence": "The Chandra X-ray observatory detects a giant halo of hot gas around a nearby galaxy."
+        },
+        {
+            "word": "hospice",
+            "meaning": "आश्रम, धर्मशाला, मरणासन्न व्यक्तियों का आश्रम",
+            "sentence": "How much money do you need to build the new hospice?"
+        },
+        {
+            "word": "hypochondria",
+            "meaning": "रोगभ्रम, विषाद रोग, अतिचिंता, चिंतोन्माद",
+            "sentence": "He was psychologically unstable and prone to hypochondria."
+        },
+        {
+            "word": "debris",
+            "meaning": "कूड़ा, मलबा, कचरा, खंडहर, ध्वंसावशेष",
+            "sentence": "I request you to clean out the accumulated debris to open up the drainage holes."
+        },
+        {
+            "word": "debonnaire",
+            "meaning": "मिलनसार, भद्र, प्रसन्नचित्त, खुशमिजाज, हंसमुख, शिष्ट, सुरुचि संपन्न",
+            "sentence": "He was the most popular and debonair man who was killed in a plane crash in 1977."
+        },
+        {
+            "word": "graminivorous",
+            "meaning": "घासभक्षी",
+            "sentence": "The numbers of graminivorous animals are declining fast, leading to ecological imbalance."
+        },
+        {
+            "word": "growl",
+            "meaning": "गुर्राहट, गुर्राना, बड़बड़ाना, गरजना, शिकायत करना",
+            "sentence": "Most puppies of this breed bite their owners, and even growl, especially when they are playing."
+        },
+        {
+            "word": "hydropathy",
+            "meaning": "जल-चिकित्सा",
+            "sentence": "Among various systems of medicine, hydropathy is still at its infancy."
+        },
+        {
+            "word": "jejune",
+            "meaning": "सारहीन, खाली, नीरस, फीका, अनुर्वर, निरुत्साह, निस्तेज, अपर्याप्त, अपौष्टिक, शुष्क, सूखा, रसहीन, बंजर",
+            "sentence": "Though he has been writing since long, most of his articles are jejune."
+        },
+        {
+            "word": "impermeable",
+            "meaning": "अभेद्य, अपारगम्य, अप्रवेश्य",
+            "sentence": "He points out that many people can avoid illness simply by ensuring that the basement of dwellings is made impermeable to such gases."
+        },
+        {
+            "word": "impious",
+            "meaning": "अधर्मी, नास्तिक, श्रद्धाहीन, अभक्त, विधर्मी",
+            "sentence": "The next story is a common parable of a god-fearing poor man and an arrogant, impious rich man."
+        },
+        {
+            "word": "myriad",
+            "meaning": "बड़ी संख्या, विशाल संख्या, विविध, करोड़ों, असंख्य",
+            "sentence": "In myriad ways, they made a contribution to the social fabric."
+        },
+        {
+            "word": "novice",
+            "meaning": "नवशिष्य, नवशिष्या, प्रशिक्षु, नौसिखिया, प्रारम्भक, नव दीक्षित व्यक्ति",
+            "sentence": "She taught the novices by her words and examples for 20 years."
+        },
+        {
+            "word": "perdition",
+            "meaning": "हानि, सत्यानाश, सर्वनाश, नरकवास, विनाश, नारकीय स्थिति, नरकवास",
+            "sentence": "Let no thought of the uncertainty enter your mind about the existence of God, else you will incur everlasting perdition."
+        },
+        {
+            "word": "poignant ",
+            "meaning": "मर्मस्पर्शी, मार्मिक, हृदयविदारक, तीक्ष्ण, कटु, तीखा, पैना, उग्र, हृदय स्पर्शी",
+            "sentence": "More than 50 years later she went there to see his grave and wrote a poignant memoir of their lost life together."
+        },
+        {
+            "word": "outstrip",
+            "meaning": "दौड़ कर आगे निकल जाना, पीछे छोड़ देना, आगे निकलना, अधिक होना",
+            "sentence": "The global demand for oil is likely to outstrip supply within the next 10 or 20 years."
+        },
+        {
+            "word": "midstream",
+            "meaning": "मझधार, बीच में, मध्य",
+            "sentence": "Even if some is very good boatman, keeping the boat away from midstream needs some deep experience of water."
+        },
+        {
+            "word": "heist",
+            "meaning": "चुराना, लूटपाट, चोरी, लूटना",
+            "sentence": "The book tells the fictional story of a criminal vs. a CID officer in a diamond heist at Heathrow airport."
+        },
+        {
+            "word": "wakeful",
+            "meaning": "जागना, जागृत, जागरूक, सजग, सचेत, चौकस, होशियार, सावधान, जागने वाला, उन्निद्र",
+            "sentence": "It is a big mistake to use these sharp colours in a bedroom where you want your baby to sleep calmly and not remain wakeful."
+        },
+        {
+            "word": "utopian",
+            "meaning": "आदर्शवादी",
+            "sentence": "The utopian socialism also failed to solve to this vex problem."
+        },
+        {
+            "word": "eschew",
+            "meaning": "दूर रहना, परहेज करना, बचना, त्याग करना, छोड़ना",
+            "sentence": "Even in present circumstances some community leaders eschew technology and preach isolation from the modern world."
+        },
+        {
+            "word": "impoverish",
+            "meaning": "अशक्त करना, दरिद्र कर देना, गरीब बनाना, अशक्त कर देना, निर्धन बना देना, अनुपजाऊ बनाना,",
+            "sentence": "Critics of the IMF and World Bank believe the policies of the institutions further impoverish poor countries."
+        },
+        {
+            "word": "quaint",
+            "meaning": "अनोखा, अनूठा, निराला, सूक्ष्म, अजीब, विलक्षण, विचित्र",
+            "sentence": "The capital of this beautiful country is situated around a quaint harbor."
+        },
+        {
+            "word": "seismology",
+            "meaning": "भूकम्प-विज्ञान",
+            "sentence": "Large scale global seismology studies have helped to identify areas at risk from earthquakes and tsunami."
+        },
+        {
+            "word": "propitious",
+            "meaning": "अनुकूल, हितकारी, दयालु, कृपालु, प्रसन्न, शुभ, मंगलमय, मांगलिक",
+            "sentence": "He believed it was a propitious moment to finally get to work to prevent an arms race in outer space."
+        },
+        {
+            "word": "knave",
+            "meaning": "धूर्त, धोखेबाज, चालाक, पाजी, बदमाश, बेईमान, गुलाम, दुष्ट, प्रवंचक, लुच्चा, शठ",
+            "sentence": "The person who drew up the agreement is a great knave."
+        },
+        {
+            "word": "unsolicited",
+            "meaning": "अयाचित, अप्रार्थित, अकारण, अनापेक्षित",
+            "sentence": "Recently, the Government has promulgated the order banning the unsolicited calls by mobile operators."
+        },
+        {
+            "word": "geology",
+            "meaning": "भूविज्ञान",
+            "sentence": "The range of rock types examined will reflect the geology of the region."
+        },
+        {
+            "word": "severance ",
+            "meaning": "संबंध विच्छेद, विच्छेद, पृथक्करण",
+            "sentence": "Doubts and tensions between the two sides further exacerbated after US President announced the severance of ties with Taiwan in 1978."
+        },
+        {
+            "word": "umpteen",
+            "meaning": "अनेक, बहुत से, कई, बहुतायत",
+            "sentence": "We now hold the trophy which had been won by our teams for the last umpteen years."
+        },
+        {
+            "word": "umbrage",
+            "meaning": "नाराज करना, रोष, कोप, नाराजगी, असंतोष, मनोमालिन्य, बुरा मानना, अप्रसन्न करना",
+            "sentence": "He had published some such religious articles, which had given umbrage to some sects."
+        },
+        {
+            "word": "insurrection",
+            "meaning": "बगावत, विद्रोह, राजद्रोह  बलवा, फसाद, विप्लव",
+            "sentence": "In 1923 he took part in the communist insurrection in Germany."
+        },
+        {
+            "word": "invidious",
+            "meaning": "पक्षपातपूर्ण, द्वेषजनक, घृणाजनक, आपत्तिजनक, घृणित",
+            "sentence": "So many officials have made so many mistakes over so many years that it would be invidious to select a single example of incompetence."
+        },
+        {
+            "word": "lurid",
+            "meaning": "सनसनीखेज, विवर्ण, फीका, डरावना, भयंकर, कराल, धुंधला, सनसनीदार,",
+            "sentence": "He is suing the newspaper over lurid allegations about his private life in a series of articles."
+        },
+        {
+            "word": "operant",
+            "meaning": "सक्रिय, चालू, चालू, कारगर, प्रभावी, उत्पादक, स्फूर्त",
+            "sentence": "In the last two decades, there has been a considerable advance in our understanding of the brain mechanisms that control operant behavior."
+        },
+        {
+            "word": "penchant",
+            "meaning": "अभिरुचि, प्रवृति, झुकाव, रुचि, इच्छा,",
+            "sentence": "She succeeded in several spheres of her life as a result of her strong penchant for adventure activities."
+        },
+        {
+            "word": "rowdy",
+            "meaning": "ऊधमी, गुण्डा, हुल्लड़बाज, शरारती, बदमाश, दंगाई, उपद्रवी, झगड़ालू",
+            "sentence": "We put up with the rowdy school children on the bus everyday."
+        },
+        {
+            "word": "stalwart",
+            "meaning": "दिलेर, साहसी, पक्का  समर्थक, ज़बरदस्त समर्थक, निर्भीक, निष्ठावान",
+            "sentence": "The US has been a stalwart member of NATO for 50 years."
+        },
+        {
+            "word": "rectitude",
+            "meaning": "ईमानदारी, साधुता, औचित्य, शुद्धता, सच्चाई, ऋजुता, आर्जव, औचित्य",
+            "sentence": "It remains to be seen whether the newfound rectitude of these first-time taxpayers' citizens will last."
+        },
+        {
+            "word": "indignation",
+            "meaning": "रोष, क्रोध, गुस्सा, आवेश, आक्रोश, प्रकोप",
+            "sentence": "The attack by the criminals had aroused the greatest indignation among the workers."
+        },
+        {
+            "word": "premonition",
+            "meaning": "पूर्वसूचना, चेतावनी, पूर्वबोध, पूर्वाभास, भविष्य वाक्य, पूर्व संकेत",
+            "sentence": "In the movie, the eight year old boy wakes in the early hours of the morning with a premonition of disaster."
+        },
+        {
+            "word": "conscientious",
+            "meaning": "कर्तव्यनिष्ठ, ईमानदार, विवेकशील, धर्मशील, धर्मात्मा, न्याय-परायण",
+            "sentence": "He was extremely conscientious from the very first day of the investigation."
+        },
+        {
+            "word": "lampoon",
+            "meaning": "व्यंग्य करना, आक्षेप, निन्दा, निन्दा-लेख, निन्दा-रचना, अवगीत, हंसी उड़ाना",
+            "sentence": "It is clear that some audiences do enjoy hearing things that lampoon silly people."
+        },
+        {
+            "word": "mesmerize",
+            "meaning": "सम्मोहित होना, सम्मोहित करना, सम्मोहन से अचेतन करना",
+            "sentence": "I was so mesmerized by the book that I finished it on day first itself."
+        },
+        {
+            "word": "numinous",
+            "meaning": "दैवी, ईश्वरीय, श्रद्धा, चमत्कारी, आलौलिक, दिव्य",
+            "sentence": "A numinous experience involves being in the presence of someone or something holy."
+        },
+        {
+            "word": "trivial",
+            "meaning": "तुच्छ, सारहीन, छोटा, नगण्य, मामूली, साधारण, घटिया, क्षुद्र, अधम",
+            "sentence": "A tenant has no right to withhold rent for trivial matters of repair."
+        },
+        {
+            "word": "compendious",
+            "meaning": "सारगर्भित, संक्षिप्त",
+            "sentence": "If you would like to know a compendious way to mortify your desires, then surrender yourself to the God."
+        },
+        {
+            "word": "refectory",
+            "meaning": "भोजनालय, चायखाना, खान-पान गृह",
+            "sentence": "There is a large refectory in the campus offering a wide selection of dishes from around the world."
+        },
+        {
+            "word": "palatial",
+            "meaning": "भव्य, विशाल, कान्तिमय, महत, विभूतिमान, महान, विशालकाय,",
+            "sentence": "In the forecourt of a most palatial hotel, the birthday girl was waiting."
+        },
+        {
+            "word": "quitter",
+            "meaning": "कायर, कामचोर, डरपोक, जी चुराने वाला, हार मानने वाला.",
+            "sentence": "As I have told you before, God hates a quitter."
+        },
+        {
+            "word": "analogical",
+            "meaning": "सादृश्यमूलक, सादृश्यवाची, मिलता-जुलता, समान, सदृश, अनुरूप",
+            "sentence": "Analogical reasoning is a powerful way of solving new problems, by making use of prior experience."
+        },
+        {
+            "word": "implore",
+            "meaning": "प्रार्थना करना, याचना करना, अनुनय-विनय, मांगना",
+            "sentence": "I respectfully implore you to help us, and to spread this message to friends and loved ones."
+        },
+        {
+            "word": "amulet",
+            "meaning": "तावीज, जंतर, कवच",
+            "sentence": "A golden amulet was tied on his right arm."
+        },
+        {
+            "word": "amity",
+            "meaning": "मित्रता, मेल-जोल",
+            "sentence": "The election of the country’s first black president was supposed to usher in an era of group amity and trust."
+        },
+        {
+            "word": "cadre",
+            "meaning": "संवर्ग",
+            "sentence": "Over the last two decades it has become an arena of law unto itself, with a cadre of lawyers who specialize in handling big MDL cases and get rich doing so."
+        },
+        {
+            "word": "propound",
+            "meaning": "प्रतिपादन करना, विचारार्थ पेश करना",
+            "sentence": "Two minutes of consultation with Wikipedia shattered the theory you propound."
+        },
+        {
+            "word": "congregation",
+            "meaning": "समूह, सभा, हुजूम",
+            "sentence": "Men, women, and children are expected to dress in their finest clothing and perform prayer in a large congregation in Eidgah or mosque."
+        },
+        {
+            "word": "secretive",
+            "meaning": "गुपचुप",
+            "sentence": "He is desperate to get back to school and find out why his friends have been so secretive all summer."
+        },
+        {
+            "word": "stint",
+            "meaning": "कार्यावधि, ",
+            "sentence": "It was after her stint teaching in Portugal that Rowling began to write the premise for Harry Potter."
+        },
+        {
+            "word": "renowned",
+            "meaning": "प्रसिद्ध, ख्यात, प्रतिष्ठित",
+            "sentence": "This extensive education created a perfect foundation to spark the Harry Potter series that J. K. Rowling is renowned for."
+        },
+        {
+            "word": "brisk",
+            "meaning": "त्वरित, क्षिप्र, चपल, चुस्त",
+            "sentence": "Together with the rest of the ashram, he returned from the brisk after-dinner walk with Gandhi in the relative cool of the evening."
+        },
+        {
+            "word": "grandeur",
+            "meaning": "वैभव, प्रभुता, महत्ता, श्रेष्ठता",
+            "sentence": "After about three months, Gandhi awoke abruptly from these dreams of grandeur. How could changing the way he dress make him anything more than he already was?"
+        },
+        {
+            "word": "grandeur",
+            "meaning": "वैभव, प्रभुता, महत्ता, श्रेष्ठता",
+            "sentence": "After about three months, Gandhi awoke abruptly from these dreams of grandeur. How could changing the way he dress make him anything more than he already was?"
+        },
+        {
+            "word": "paean",
+            "meaning": "जयगीत",
+            "sentence": "This book is a paean to India, yet it emanates from the pen of a United Nations Official who has lived outside India for most of his adult life. - Shashi Tharoor, \"The Great Indian Novel\""
+        },
+        {
+            "word": "dispensable",
+            "meaning": "अनावश्यक",
+            "sentence": "As today's young concentrate on making their bread, should they consider political freedom a dispensable distraction? - Shashi Tharoor, \"India, from midnight to millenium\""
+        },
+        {
+            "word": "mediocre",
+            "meaning": "औसत",
+            "sentence": "Estha finished school with mediocre results but refused to go to college. - Arundhati Roy, \"The God of Small Things\""
+        },
+        {
+            "word": "black sheep",
+            "meaning": "कुलकलंक, नालायक",
+            "sentence": "My cousins are all on their way to becoming doctors or engineers. You could say I am the black sheep of my family. - Chetan Bhagat, \"One Night at the Call Center\""
+        },
+        {
+            "word": "erstwhile",
+            "meaning": "पहले का, पूर्व",
+            "sentence": "I was born into a middle-class Tamil family in the island town of Rameswaram in the erstwhile Madras state. A P J Abdul Kalam, \"Wings of Fire: an autobiography\""
+        },
+        {
+            "word": "vernacular",
+            "meaning": "देशी, जनपद की",
+            "sentence": "It was while she was at the college of architecture that she met Larry McCaslin, who was in Delhi collecting material for his doctoral thesis on \"Energy Efficiency in Vernacular Architecture\"- Arundhati Roy, \"The God of Small Things\""
+        },
+        {
+            "word": "chasm",
+            "meaning": "गहरी खाई ",
+            "sentence": "A huge rock, falling from above, boomed past me, struck the path, and bounced over into the chasm. - Arthur Conan Doyle, \"The Return of Sherlock Holmes\"."
+        },
+        {
+            "word": "bereavement",
+            "meaning": "वियोग",
+            "sentence": "In some manner he had learned of my own sad bereavement, and his sympathy was shown in his manner rather than in his words.- Arthur Conan Doyle, \"The Return of Sherlock Holmes\"."
+        },
+        {
+            "word": "heath",
+            "meaning": "झाड़ खण्ड",
+            "sentence": "The heath was covered with golden patches of flowering gorse, gleaming magnificently in the light of the bright spring sunshine. - Arthur Conan Doyle, \"The Return of Sherlock Holmes\"."
+        },
+        {
+            "word": "grotesque",
+            "meaning": "असंगत",
+            "sentence": "I confess that I had not up to now taken a very serious view of the case, which had seemed to me rather grotesque and bizarre than dangerous - Arthur Conan Doyle, \"The Return of Sherlock Holmes\"."
+        },
+        {
+            "word": "solitary",
+            "meaning": "अकेला",
+            "sentence": "A solitary cyclist was coming towards us. His head was down and his shoulders rounded, as he put every ounce of energy that he possessed on to the pedals. - Arthur Conan Doyle, \"The Return of Sherlock Holmes\"."
+        },
+        {
+            "word": "glade",
+            "meaning": "वनमार्ग",
+            "sentence": "We had broken suddenly into a lovely glade of greensward surrounded by ancient trees. - Arthur Conan Doyle, \"The Return of Sherlock Holmes\"."
+        },
+        {
+            "word": "reminiscence",
+            "meaning": "संस्मरण",
+            "sentence": "When I first began the reminiscences that have gone into this book, I was uncertain about which of my memories were worth narrating or were of any relevance at all. -- A P J Abdul Kalam, \"Wings of Fire\""
+        },
+        {
+            "word": "unflagging",
+            "meaning": "अविरत",
+            "sentence": "It is also a tribute to the unflagging enthusiasm and efforts of my young colleagues who helped to realise our collective dreams. - A P J Abdul Kalam, \"Wings of Fire\""
+        },
+        {
+            "word": "austere",
+            "meaning": "सादगीपसन्द",
+            "sentence": "My austere father used to avoid all inessential comforts and luxuries. - A P J Abdul Kalam, \"Wings of Fire\""
+        },
+        {
+            "word": "emulate",
+            "meaning": "अनुकरण करना",
+            "sentence": "I have throughout my life tried to emulate my father in my own world of science and technology. - A P J Abdul Kalam, \"Wings of Fire\""
+        },
+        {
+            "word": "revelation",
+            "meaning": "श्रुति",
+            "sentence": "The Pamban Bridge collapsed with a train full of passengers in it. Until then, I had only seen the beauty of the sea, now its uncotrollable energy came as a revelation to me. - A P J Abdul Kalam, \"Wings of Fire\""
+        },
+        {
+            "word": "environs",
+            "meaning": "पड़ोस",
+            "sentence": "In the humble environs of my boyhood, books were a scarce commodity. - A P J Abdul Kalam, \"Wings of Fire\""
+        },
+        {
+            "word": "segregation",
+            "meaning": "पृथक्करण",
+            "sentence": "On the whole, the small society of Rameswaram was highly stratified and very rigid in terms of segregation of different social groups."
+        },
+        {
+            "word": "self-realisation",
+            "meaning": "आत्मानुभूति",
+            "sentence": "For me, science has always been the path to spiritual enrichment and self-realisation. - A P J Abdul Kalam, \"Wings of Fire\""
+        },
+        {
+            "word": "novitiate",
+            "meaning": "नौसिखुआ",
+            "sentence": "I myself would like to tell all novitiate engineering students that when they choose their specialization, the essential point to consider is whether the choice articulates their inner feelings and aspirations. - A P J Abdul Kalam, \"Wings of Fire\""
+        },
+        {
+            "word": "lantern",
+            "meaning": "कंदील",
+            "sentence": "\"Let God be your hope, your stay, your guide and provide the lantern for your feet in your journey into the future\", said the introverted genius, bidding me adieu. - A P J Abdul Kalam, \"Wings of Fire\""
+        },
+        {
+            "word": "momentum",
+            "meaning": "आवेग",
+            "sentence": "A judo fighter uses the opponent's weight and momentum to throw him or her to the floor. - Thomas Streeissguth, \"Vladimir Putin\""
+        },
+        {
+            "word": "furtive",
+            "meaning": "छिपा हुआ, गुप्त",
+            "sentence": "The thieves were furtive, but not furtive enough; the alert policeman grabbed them as they carried the TV through the back door. "
+        },
+        {
+            "word": "frenetic",
+            "meaning": "अतिउत्तेजित",
+            "sentence": "The bird's frenetic attempt to free itself from the thorn bush finally exhausted it."
+        },
+        {
+            "word": "perfidy",
+            "meaning": "विश्वासघात",
+            "sentence": "It was the dacoits' natural perfidy that finally landed them in jail, as each one became an informant on the other."
+        },
+        {
+            "word": "paucity",
+            "meaning": "अभाव",
+            "sentence": "There is no plaucity of investment in today's growing Indian economy. "
+        },
+        {
+            "word": "penchant",
+            "meaning": "प्रवृत्ति",
+            "sentence": "Some companies have a penchant for secrecy regarding future products."
+        },
+        {
+            "word": "exigency",
+            "meaning": "आपात स्थिति",
+            "sentence": "The slow preparation for Commonwealth Games created an exigency for India's reputation."
+        },
+        {
+            "word": "precipitous",
+            "meaning": "ढालू",
+            "sentence": "Tillangchong, situated opposite Car-Nicobar, is a narrow mountainous island with precipitous cliffs, stretching from north-west towards south-east."
+        },
+        {
+            "word": "bereft",
+            "meaning": "शोकाकुल ",
+            "sentence": "The kids were bereft by the death of their pet parrot."
+        }
+    ]
+}
